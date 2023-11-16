@@ -1,0 +1,270 @@
+{
+    "PWSinger_2009_0": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_0_fbank.pt",
+        "words": " i'd begin with a scene of war there was little to warn of the danger ahead the iraqi insurgent had placed"
+    },
+    "PWSinger_2009_1": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_1_fbank.pt",
+        "words": " the ied an improvised explosive device along the side of the road with great care by two"
+    },
+    "PWSinger_2009_2": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_2_fbank.pt",
+        "words": " thousand and six there were more than two thousand five hundred of these attacks every single month"
+    },
+    "PWSinger_2009_4": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_4_fbank.pt",
+        "words": " the team that was hunting for this ied is called an eod team explosives ordinance disposaland they're the pointy end of the spear in the american effort to suppress these roadside bombs"
+    },
+    "PWSinger_2009_5": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_5_fbank.pt",
+        "words": " each eod team goes out on about six"
+    },
+    "PWSinger_2009_8": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_8_fbank.pt",
+        "words": " unfortunately this particular call would not end well by the time the soldier advanced close enough to see the telltale wires of the bomb it exploded in a"
+    },
+    "PWSinger_2009_12": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_12_fbank.pt",
+        "words": " it can cause death or injury you have to be as far as fifty yards away to escape that the blast is so strong it can even break your limbs even if you're not hit"
+    },
+    "PWSinger_2009_13": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_13_fbank.pt",
+        "words": " that soldier had been on top of the bomb"
+    },
+    "PWSinger_2009_20": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_20_fbank.pt",
+        "words": " that scene sounds like science fiction but is battlefield reality already"
+    },
+    "PWSinger_2009_21": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_21_fbank.pt",
+        "words": " the soldier in that case was a 42 pound robot called a packbot"
+    },
+    "PWSinger_2009_25": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_25_fbank.pt",
+        "words": " you the reality of robots used in war right now or already at the prototype stage it's just to give you a taste"
+    },
+    "PWSinger_2009_27": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_27_fbank.pt",
+        "words": " something big is going on in war today and maybe even the history of humanity itself the u s military went into iraq with a handful of drones in the air"
+    },
+    "PWSinger_2009_28": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_28_fbank.pt",
+        "words": " we now have five thousand three hundred"
+    },
+    "PWSinger_2009_29": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_29_fbank.pt",
+        "words": " we went in with zero unmanned ground systems we now have twelve thousand and the tech term"
+    },
+    "PWSinger_2009_30": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_30_fbank.pt",
+        "words": " application takes on new meaning in this space"
+    },
+    "PWSinger_2009_39": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_39_fbank.pt",
+        "words": " a robots revolution is upon us"
+    },
+    "PWSinger_2009_40": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_40_fbank.pt",
+        "words": " now i need to be clear here i'm not talking about a revolution where you have to worry about the governor of california showing up at your door"
+    },
+    "PWSinger_2009_42": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_42_fbank.pt",
+        "words": " like the invention of the atomic bomb but it may be even bigger than that because our unmanned systems don't just affect the how of war fighting"
+    },
+    "PWSinger_2009_43": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_43_fbank.pt",
+        "words": " they affect the who of fighting at its most fundamental level that is every previous revolution in war be it the machine gun be it the"
+    },
+    "PWSinger_2009_45": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_45_fbank.pt",
+        "words": " that's certainly the case with robotics but they also change the experience of the warrior and even the very identity of the warrior"
+    },
+    "PWSinger_2009_47": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_47_fbank.pt",
+        "words": " monopoly on the fighting of war is breaking down in our very lifetime"
+    },
+    "PWSinger_2009_49": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_49_fbank.pt",
+        "words": " to the science fiction authors who inspired them to the 19 year old drone pilots who are fighting from nevada to the four star generals who command them to even the iraqi insurgents who they are targeting and what they think about our systems"
+    },
+    "PWSinger_2009_55": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_55_fbank.pt",
+        "words": " 's the same thing in war the british and the french invented the tank"
+    },
+    "PWSinger_2009_58": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_58_fbank.pt",
+        "words": " this raises a bigger worry for me"
+    },
+    "PWSinger_2009_59": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_59_fbank.pt",
+        "words": " how do we move forward in this"
+    },
+    "PWSinger_2009_63": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_63_fbank.pt",
+        "words": " so has warfare"
+    },
+    "PWSinger_2009_70": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_70_fbank.pt",
+        "words": " but then the second is that we are going to see an expansion in the realm of terrorism"
+    },
+    "PWSinger_2009_74": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_74_fbank.pt",
+        "words": " i like these systems because they save"
+    },
+    "PWSinger_2009_75": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_75_fbank.pt",
+        "words": " but i worry about more marketization of wars more shock and awe talk to defray discussion of the costs"
+    },
+    "PWSinger_2009_77": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_77_fbank.pt",
+        "words": " robots for me take certain trends that are already in play in our body politic"
+    },
+    "PWSinger_2009_82": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_82_fbank.pt",
+        "words": " and so we may take those already lowering bars to war"
+    },
+    "PWSinger_2009_83": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_83_fbank.pt",
+        "words": " and drop them to the ground but"
+    },
+    "PWSinger_2009_91": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_91_fbank.pt",
+        "words": " weird world and so inevitably the ability to download these video clips to you know your ipod or your zune"
+    },
+    "PWSinger_2009_92": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_92_fbank.pt",
+        "words": " gives you"
+    },
+    "PWSinger_2009_93": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_93_fbank.pt",
+        "words": " the ability to turn it into entertainment"
+    },
+    "PWSinger_2009_94": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_94_fbank.pt",
+        "words": " soldiers have a name for these clips they call it war porn the typical one that i was sent was an email that had an attachment"
+    },
+    "PWSinger_2009_98": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_98_fbank.pt",
+        "words": " creates a wrinkle in the public's relationship with war i think about this with a sports"
+    },
+    "PWSinger_2009_101": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_101_fbank.pt",
+        "words": " these are just the clips these are just the espn sportscenter version of the game"
+    },
+    "PWSinger_2009_105": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_105_fbank.pt",
+        "words": " so one example of this that has big resonance in the policy realm is how this plays out on our very real war of ideas that we're fighting against radical"
+    },
+    "PWSinger_2009_106": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_106_fbank.pt",
+        "words": " groups what is the message that we think we are sending with these machines versus what is being received in terms of the message"
+    },
+    "PWSinger_2009_109": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_109_fbank.pt",
+        "words": " but when you go out and meet with people for example in lebanon it's a very different story one of the people i met with there was a news editor and we're talking as a drone is flying above him and this is"
+    },
+    "PWSinger_2009_110": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_110_fbank.pt",
+        "words": " what he had to say this is just another sign of the coldhearted cruel israelis and americans who are cowards because they send out machines to fight us they don't want to fight us like real men but they're afraid to fight"
+    },
+    "PWSinger_2009_111": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_111_fbank.pt",
+        "words": " the future of war also is featuring a new type of warrior"
+    },
+    "PWSinger_2009_112": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_112_fbank.pt",
+        "words": " and it's actually redefining the experience of going to war you can call this a cubicle warrior this is what one predator drone pilot described of his experience fighting in the iraq war while never leaving nevada you"
+    },
+    "PWSinger_2009_113": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_113_fbank.pt",
+        "words": " 're going to war for twelve hours shooting weapons at targets directing kills on enemy combatants"
+    },
+    "PWSinger_2009_114": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_114_fbank.pt",
+        "words": " and then you get in the car and you drive home and within twenty minutes you're sitting at the dinner table talking to your kids about their homework"
+    },
+    "PWSinger_2009_115": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_115_fbank.pt",
+        "words": " now the psychological balancing of those experiences is incredibly tough and in fact those drone pilots have higher rates of ptsd than many of the units physically in iraq"
+    },
+    "PWSinger_2009_116": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_116_fbank.pt",
+        "words": " but some have worries that this disconnection will lead to something else that it might make the"
+    },
+    "PWSinger_2009_117": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_117_fbank.pt",
+        "words": " of war crimes a lot easier when you have this distance it's like a video game is what one young pilot described to me"
+    },
+    "PWSinger_2009_118": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_118_fbank.pt",
+        "words": " of taking out enemy troops from afar"
+    },
+    "PWSinger_2009_119": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_119_fbank.pt",
+        "words": " as anyone who's played grand theft auto knows we do things in the video world that we wouldn't do face to face"
+    },
+    "PWSinger_2009_123": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_123_fbank.pt",
+        "words": " the fog of war isn't being lifted the enemy has a vote we're gaining incredible new capabilities but we're also seeing and experiencing new human dilemmas"
+    },
+    "PWSinger_2009_124": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_124_fbank.pt",
+        "words": " now sometimes these are just oops moments which is what the head of a robotics company described it you just have"
+    },
+    "PWSinger_2009_127": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_127_fbank.pt",
+        "words": " where they tested out a machine gun armed robot and during the demonstration it started spinning in a circle and pointed its machine gun at the reviewing stand of"
+    },
+    "PWSinger_2009_131": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_131_fbank.pt",
+        "words": " we have new wrinkles in the laws of war and accountability what do we do with things like unmanned slaughter"
+    },
+    "PWSinger_2009_134": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_134_fbank.pt",
+        "words": " and this is where we're at right now this is not even talking about armed autonomous systems with full authority to use force"
+    },
+    "PWSinger_2009_142": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_142_fbank.pt",
+        "words": " and so we have this question to figure out"
+    },
+    "PWSinger_2009_145": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_145_fbank.pt",
+        "words": " i've talked about what seems the future of war but notice that i've only used real world examples and you've only seen real world pictures and videos"
+    },
+    "PWSinger_2009_146": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_146_fbank.pt",
+        "words": " and so this sets a great challenge for all of us"
+    },
+    "PWSinger_2009_148": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_148_fbank.pt",
+        "words": " sounds like science fiction and therefore keeps us in denial"
+    },
+    "PWSinger_2009_150": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_150_fbank.pt",
+        "words": " and not deal"
+    },
+    "PWSinger_2009_154": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_154_fbank.pt",
+        "words": " then it's just a product recall issue"
+    },
+    "PWSinger_2009_157": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_157_fbank.pt",
+        "words": " the characters that represented the best and worst of humanity"
+    },
+    "PWSinger_2009_158": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_158_fbank.pt",
+        "words": " only one character made it onto both lists"
+    },
+    "PWSinger_2009_159": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_159_fbank.pt",
+        "words": " the terminator"
+    },
+    "PWSinger_2009_161": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_161_fbank.pt",
+        "words": " and so that points to the fact that our machines can be used for both good and evil but for me it points to the fact that there's a duality of humans as well"
+    },
+    "PWSinger_2009_162": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/PWSinger_2009/test/PWSinger_2009_162_fbank.pt",
+        "words": " this week is a celebration of our creativity our creativity has taken our species to the stars our creativity has created works of arts and literature to express our love"
+    }
+}

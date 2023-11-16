@@ -1,0 +1,234 @@
+{
+    "DavidChristian_2011_0": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_0_fbank.pt",
+        "words": " a scrambled egg but as you look at it i hope you'll begin to feel just"
+    },
+    "DavidChristian_2011_1": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_1_fbank.pt",
+        "words": " slightly uneasy"
+    },
+    "DavidChristian_2011_2": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_2_fbank.pt",
+        "words": " because you may notice that what's actually happening is that the egg is unscrambling itself"
+    },
+    "DavidChristian_2011_5": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_5_fbank.pt",
+        "words": " and we know in our heart of hearts that the universe does not travel from mush to complexity"
+    },
+    "DavidChristian_2011_7": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_7_fbank.pt",
+        "words": " what that says basically"
+    },
+    "DavidChristian_2011_8": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_8_fbank.pt",
+        "words": " is that the general tendency of the universe is to move from order and structure"
+    },
+    "DavidChristian_2011_10": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_10_fbank.pt",
+        "words": " look around us"
+    },
+    "DavidChristian_2011_18": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_18_fbank.pt",
+        "words": " goldilocks conditions not too hot not too cold just right for the creation of complexity"
+    },
+    "DavidChristian_2011_20": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_20_fbank.pt",
+        "words": " each stage is magical because it creates the impression of something utterly new appearing almost"
+    },
+    "DavidChristian_2011_21": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_21_fbank.pt",
+        "words": " out of nowhere in the universe we refer in big history to these moments as threshold moments"
+    },
+    "DavidChristian_2011_22": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_22_fbank.pt",
+        "words": " and at each threshold the going gets tougher the complex things get more fragile"
+    },
+    "DavidChristian_2011_23": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_23_fbank.pt",
+        "words": " more vulnerable the goldilocks conditions get more stringent and it's more difficult to create"
+    },
+    "DavidChristian_2011_31": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_31_fbank.pt",
+        "words": " bang a universe appears an entire universe and we've crossed our first threshold the universe is tiny it's smaller than an atom it's incredibly hot it contains everything"
+    },
+    "DavidChristian_2011_32": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_32_fbank.pt",
+        "words": " that's in today's universe so you can imagine it's busting and it's expanding at incredible"
+    },
+    "DavidChristian_2011_34": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_34_fbank.pt",
+        "words": " and at first it's just a blur but very quickly distinct things begin to appear in that blur"
+    },
+    "DavidChristian_2011_37": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_37_fbank.pt",
+        "words": " quarks that will create protons and leptons that include electrons and all of that"
+    },
+    "DavidChristian_2011_38": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_38_fbank.pt",
+        "words": " in the first second"
+    },
+    "DavidChristian_2011_39": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_39_fbank.pt",
+        "words": " now we move forward three hundred and eighty thousand years"
+    },
+    "DavidChristian_2011_42": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_42_fbank.pt",
+        "words": " because we actually know quite a lot about the universe at this stage"
+    },
+    "DavidChristian_2011_43": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_43_fbank.pt",
+        "words": " we know above all that it was extremely simple it consisted of huge clouds of hydrogen and helium atoms and they have no structure they're really a sort of cosmic mush"
+    },
+    "DavidChristian_2011_44": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_44_fbank.pt",
+        "words": " but that's not completely true"
+    },
+    "DavidChristian_2011_45": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_45_fbank.pt",
+        "words": " recent studies by satellites such as the wmap satellite have shown that in fact there are just tiny differences in that background what you see here"
+    },
+    "DavidChristian_2011_48": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_48_fbank.pt",
+        "words": " gravity is more powerful where there's more stuff so where you get slightly denser areas"
+    },
+    "DavidChristian_2011_49": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_49_fbank.pt",
+        "words": " gravity starts compacting clouds of hydrogen and helium atoms so we can imagine the early universe breaking up into a billion clouds and each cloud is compacted gravity gets more powerful"
+    },
+    "DavidChristian_2011_54": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_54_fbank.pt",
+        "words": " stars will create the goldilocks conditions for crossing two new thresholds"
+    },
+    "DavidChristian_2011_55": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_55_fbank.pt",
+        "words": " when very large stars die they create temperatures so high"
+    },
+    "DavidChristian_2011_58": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_58_fbank.pt",
+        "words": " and what starts happening is that around young suns young stars"
+    },
+    "DavidChristian_2011_63": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_63_fbank.pt",
+        "words": " the going gets tougher"
+    },
+    "DavidChristian_2011_66": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_66_fbank.pt",
+        "words": " living organisms are created by chemistry we are huge packages of chemicals"
+    },
+    "DavidChristian_2011_69": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_69_fbank.pt",
+        "words": " what are the goldilocks conditions well"
+    },
+    "DavidChristian_2011_70": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_70_fbank.pt",
+        "words": " you need energy"
+    },
+    "DavidChristian_2011_75": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_75_fbank.pt",
+        "words": " you also need a great diversity of chemical elements and you need liquids such as water why"
+    },
+    "DavidChristian_2011_79": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_79_fbank.pt",
+        "words": " well planets are great and our early earth was almost perfect"
+    },
+    "DavidChristian_2011_87": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_87_fbank.pt",
+        "words": " you don't stabilize the individual you stabilize the template"
+    },
+    "DavidChristian_2011_90": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_90_fbank.pt",
+        "words": " and dna also copies itself so it copies itself and scatters the templates through the ocean so the information spreads notice that information has become part of our story"
+    },
+    "DavidChristian_2011_93": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_93_fbank.pt",
+        "words": " dna's learning and it's building greater diversity and greater complexity and we can see this happening over the last four billion years"
+    },
+    "DavidChristian_2011_95": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_95_fbank.pt",
+        "words": " then from about six hundred to eight hundred million years ago multi celled organisms appear you get fungi you get fish"
+    },
+    "DavidChristian_2011_96": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_96_fbank.pt",
+        "words": " you get plants you get amphibia you get reptiles and then of course you get the dinosaurs"
+    },
+    "DavidChristian_2011_100": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_100_fbank.pt",
+        "words": " terrible news for the dinosaurs"
+    },
+    "DavidChristian_2011_105": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_105_fbank.pt",
+        "words": " we've seen that dna learns in a sense it accumulates information but it is so slow"
+    },
+    "DavidChristian_2011_108": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_108_fbank.pt",
+        "words": " learn in real time they accumulate information they learn the sad thing is when they die the information dies with them"
+    },
+    "DavidChristian_2011_111": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_111_fbank.pt",
+        "words": " we are blessed with a language a system of communication so powerful and so precise that we can share what we've learned with such precision that it can accumulate in the collective memory"
+    },
+    "DavidChristian_2011_112": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_112_fbank.pt",
+        "words": " that means it can outlast the individuals who learned that information and it can accumulate from generation to generation and that's why as a species we're so creative and so powerful and that's why we have a history"
+    },
+    "DavidChristian_2011_115": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_115_fbank.pt",
+        "words": " we can see it at work in the earliest stages of human history"
+    },
+    "DavidChristian_2011_118": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_118_fbank.pt",
+        "words": " each migration involved learning learning new ways of exploiting the environment new ways"
+    },
+    "DavidChristian_2011_119": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_119_fbank.pt",
+        "words": " of dealing with their surroundings then ten thousand years ago"
+    },
+    "DavidChristian_2011_122": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_122_fbank.pt",
+        "words": " and then from about five hundred years ago"
+    },
+    "DavidChristian_2011_126": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_126_fbank.pt",
+        "words": " so"
+    },
+    "DavidChristian_2011_129": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_129_fbank.pt",
+        "words": " and it's a story in which humans play an astonishing and creative role but it also contains warnings"
+    },
+    "DavidChristian_2011_132": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_132_fbank.pt",
+        "words": " the entire biosphere seemed to be on the verge of destruction and the same weapons are still here and they are still armed"
+    },
+    "DavidChristian_2011_133": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_133_fbank.pt",
+        "words": " if we avoid that trap"
+    },
+    "DavidChristian_2011_134": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_134_fbank.pt",
+        "words": " others are waiting for us we're burning fossil fuels at such a rate that we seem to be undermining the goldilocks conditions that made it possible for human civilizations to flourish over the last ten thousand years"
+    },
+    "DavidChristian_2011_135": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_135_fbank.pt",
+        "words": " so what big history can do is"
+    },
+    "DavidChristian_2011_136": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_136_fbank.pt",
+        "words": " show us the nature of our complexity and fragility and the dangers that face us but it can also show us"
+    },
+    "DavidChristian_2011_137": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_137_fbank.pt",
+        "words": " our power with collective learning and now finally"
+    },
+    "DavidChristian_2011_138": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_138_fbank.pt",
+        "words": " this is what i want"
+    },
+    "DavidChristian_2011_142": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_142_fbank.pt",
+        "words": " and that's why a group of us are building a free online syllabus in big history for high school students throughout the world"
+    },
+    "DavidChristian_2011_144": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/DavidChristian_2011/test/DavidChristian_2011_144_fbank.pt",
+        "words": " and his generation face the huge challenges and also the huge opportunities ahead of them at this threshold moment in the history of our beautiful planet"
+    }
+}

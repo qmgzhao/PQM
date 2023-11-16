@@ -1,0 +1,147 @@
+GregLynn_2005_0 i would talk about today is the transition from one mode of thinking about nature to another that's tracked by architecture what's interesting about architects is
+GregLynn_2005_1 we always have tried to justify beauty by looking to nature and
+GregLynn_2005_2 arguably beautiful architecture has always been looking at a model of nature so for roughly three hundred years the hot debate in architecture
+GregLynn_2005_3 was whether the number five or the number seven was a better proportion to think about architecture because the nose was one fifth of your head
+GregLynn_2005_4 or because your head
+GregLynn_2005_5 of your body
+GregLynn_2005_6 and the reason that that was the model of beauty and of nature was because the decimal point had not been invented yet it wasn't the 16th century
+GregLynn_2005_7 and
+GregLynn_2005_8 everybody had to dimension a building in terms of fractions so a room would be dimensioned as one fourth of a facade the structural dais of that might be dimensioned as ten
+GregLynn_2005_9 get down to the small elements by fractional subdivision finer and finer and finer in the 15th century the decimal point was invented architects 
+GregLynn_2005_10 stopped using fractions and they had a new model of nature so what's going on
+GregLynn_2005_11 and which is using digital tools and that has a lot of implications to the way we think about beauty and form and it has a lot of implications
+GregLynn_2005_12 in the way we think about nature 
+GregLynn_2005_13 the best example of this would probably be the gothic and the gothic was invented after the invention of calculus although the gothic architects weren't really using 
+GregLynn_2005_14 calculus to define their forms but what was important is the gothic moment in architecture was the first time that force and motion was thought of in terms of form 
+GregLynn_2005_15 cross you can see that the structural forces of the vaulting get articulated as lines so you're really actually seeing the expression of structural force and form 
+GregLynn_2005_16 much later robert maillart's bridges which optimize structural form with a calculus curvature almost like a parabola 
+GregLynn_2005_17 the end of the 19th century beginning of the 20th century and how that hanging chain model translates into archways
+GregLynn_2005_18 and vaulting
+GregLynn_2005_19 so in all of these examples structure is the determining force frei otto was starting to use foam bubble diagrams
+GregLynn_2005_20 and foam bubble models to generate his mannheim concert hall
+GregLynn_2005_21 interestingly in the last ten years norman foster used a similar heat thermal transfer model to generate the roof of the national gallery with the structural engineer chris williams
+GregLynn_2005_22 in all these examples there's one ideal form because these are thought in terms of structure and as an architect i've always found these kinds of systems very limiting because
+GregLynn_2005_23 i'm not interested in ideal forms and i'm not interested in optimizing to some perfect moment so what i thought i would
+GregLynn_2005_24 bring up is another component that needs to be thought of whenever you think about nature and that's basically the invention of
+GregLynn_2005_25 generic form in genetic
+GregLynn_2005_26 my hero is actually not darwin it's a guy named william bateson father of greg bateson who was here for a long time
+GregLynn_2005_27 in monterey and he was what you'd call a teratologist he looked at all of the monstrosities and mutations to find rules 
+GregLynn_2005_28 and laws rather than looking at the norms so instead of trying to find the ideal type
+GregLynn_2005_29 he has two kinds of mutations of a human thumb when i first saw this image 
+GregLynn_2005_30 ten years ago i actually found it very strange and beautiful at the same time beautiful because it has symmetry 
+GregLynn_2005_31 so what he found is that in all cases of thumb mutations instead of
+GregLynn_2005_32 having a thumb you would either get another opposable thumb or you would get four fingers so the mutations reverted
+GregLynn_2005_33 to symmetry 
+GregLynn_2005_34 and bateson invented the concept of symmetry breaking
+GregLynn_2005_35 which is that wherever you lose information in a system 
+GregLynn_2005_36 you revert back to symmetry so symmetry wasn't the sign of order and organization which is what i was always understanding and as is an architect
+GregLynn_2005_37 symmetry was the absence of information so whenever you lost information you'd move to symmetry
+GregLynn_2005_38 you added information to a system you would break symmetry so this whole idea of natural form
+GregLynn_2005_39 shifted at that moment from looking for ideal shapes to looking for a combination of information and
+GregLynn_2005_40 and generic form 
+GregLynn_2005_41 you know literally after seeing that image and finding out what bateson was working with we started to use these rules for symmetry breaking and
+GregLynn_2005_42 branching to start to think about architectural form 
+GregLynn_2005_43 to just talk for a minute about the digital mediums that we're using now and how they integrate calculus the fact that 
+GregLynn_2005_44 means that we don't have to think about dimension in terms of ideal units or
+GregLynn_2005_45 in architecture we deal with big assemblies of components so there might be
+GregLynn_2005_46 up to say fifty thousand pieces of material in this room you're sitting in right now
+GregLynn_2005_47 that all need to get organized now typically you'd think that they would all be the same like the chairs you're sitting in would all be the same dimension you know
+GregLynn_2005_48 i haven't verified this but it's the norm that every chair would be a slightly different dimension
+GregLynn_2005_49 because you'd want to space them all out for everybody's sight lines
+GregLynn_2005_50 the elements that make up the ceiling grid and the lighting they're all losing their modular quality and moving more and more to these infinitesimal dimensions that's because we're all using calculus tools for manufacturing
+GregLynn_2005_51 and for design
+GregLynn_2005_52 calculus is also a mathematics of curves so even a straight line defined with calculus is a curve it's just a curve without inflection
+GregLynn_2005_53 a new vocabulary of form is now pervading all design fields whether it's automobiles architecture products etc it's really being affected by 
+GregLynn_2005_54 this digital medium of curvature the intricacies of scale that come out of that you know in the example of the nose to the face there's a fractional 
+GregLynn_2005_55 with calculus the whole idea of subdivision is more complex because the whole and the parts are one continuous series it's
+GregLynn_2005_56 too early in the morning for a lecture on calculus so i brought some images to just describe how that works this
+GregLynn_2005_57 is a korean church that we did in queens and in this example you can see that the components of this
+GregLynn_2005_58 but they're repetitive without being modular each one of the elements in this structure
+GregLynn_2005_59 is a unique distance and dimension and all of the connections are unique angles now the only way we could design that
+GregLynn_2005_60 or possibly construct it is by using a 
+GregLynn_2005_61 definition of the form it also is much more dynamic so that you can see that the same
+GregLynn_2005_62 opens and closes in a very dynamic way as you move across it because it has this quality of vector in motion built into it so the same space that appears to be a kind 
+GregLynn_2005_63 of closed volume when seen from the other side becomes a kind of open vista 
+GregLynn_2005_64 changes also in architecture
+GregLynn_2005_65 that we're starting to look now not for some ideal form like a latin cross for a church but actually all the traits of a church so 
+GregLynn_2005_66 light that comes from behind from an invisible source
+GregLynn_2005_67 directionality that focuses you towards an altar it turns out it's not
+GregLynn_2005_68 rocket science to design a sacred space you just need to incorporate a certain
+GregLynn_2005_69 number of traits in a very kind of genetic way 
+GregLynn_2005_70 so these are the different perspectives of that interior which has a very complex set of orientations all in a simple form
+GregLynn_2005_71 in terms of construction and manufacturing this is a
+GregLynn_2005_72 housing block that was built in the' 70s in
+GregLynn_2005_73 here we've broken the five hundred apartments up into small neighborhoods and differentiated those neighborhoods 
+GregLynn_2005_74 i won't go into too much description of any of these projects but what you can see is that the escalators and elevators that circulate people along the face of the building
+GregLynn_2005_75 are all held up by one hundred and
+GregLynn_2005_76 structural trusses
+GregLynn_2005_77 because we're using escalators to move people all of these trusses are picking up diagonal
+GregLynn_2005_78 loads so every one of them is a little bit 
+GregLynn_2005_79 you move down the length of the building so working with
+GregLynn_2005_80 bentley and microstation we've written a custom piece of software that networks all of the components together into these
+GregLynn_2005_81 so that if we change any element along the length of the building not only does that change distribute through each one of the trusses 
+GregLynn_2005_82 but each one of the trusses then distributes that information down the length of the entire facade of the building so it's a single calculation
+GregLynn_2005_83 for every single component of the building
+GregLynn_2005_84 that we're adding onto so it's tens of millions of calculations just to design one connection between
+GregLynn_2005_85 a piece of structural steel and another piece of structural steel but what it gives us is a harmonic and synthesized
+GregLynn_2005_86 relationship of all these components one to another
+GregLynn_2005_87 this idea has kind of brought me into doing some product design and it's because
+GregLynn_2005_88 design firms that have connections to architects like i'm working with vitra
+GregLynn_2005_89 which is a furniture company and alessi which is a houseware company
+GregLynn_2005_90 they saw this actually solving a problem this ability to differentiate components but keep them synthetic so 
+GregLynn_2005_91 not to pick on bmw or to celebrate them but
+GregLynn_2005_92 take bmw as an example they have to in two thousand and
+GregLynn_2005_93 have a distinct identity for all their models of cars so the three hundred series or whatever their newest car is the one hundred series that's coming out
+GregLynn_2005_94 has to look like the seven hundred series at the other end of their product line so they need a distinct coherent identity which is bmw
+GregLynn_2005_95 at the same time there's a person paying thirty thousand dollars for a 300 series car and a person paying seventy thousand dollars for a seven hundred series and that person paying more than double
+GregLynn_2005_96 doesn't want their car to look too much like the bottom of the market car so they have to also discriminate between these products so 
+GregLynn_2005_97 as manufacturing starts to allow more
+GregLynn_2005_98 design options
+GregLynn_2005_99 this problem gets exacerbated of the whole and the parts now as an architect part to whole relationships is all i think about but in terms of product design it's becoming more and more of
+GregLynn_2005_100 an issue
+GregLynn_2005_101 for companies so the first kind of test product we did was with alessi which was for a coffee and tea set it's an incredibly expensive coffee and tea set we 
+GregLynn_2005_102 knew that at the beginning so i actually went to some people i knew down south in san diego and we used
+GregLynn_2005_103 just cut a
+GregLynn_2005_104 graphite mold put it in an oven heat it to one thousand degrees
+GregLynn_2005_105 gently inflate titanium that's soft and then explode it at the last minute into this form 
+GregLynn_2005_106 but what's great about it is the forms are only a few hundred dollars the titanium's several thousand dollars but the forms are very cheap 
+GregLynn_2005_107 so we designed a system here
+GregLynn_2005_108 of eight curves that could be swapped
+GregLynn_2005_109 similar to that housing project i showed you
+GregLynn_2005_110 and we could recombine those together so that we always had ergonomic shapes that always had the same volume and could always be produced in the same way that 
+GregLynn_2005_111 way each one of these tools we could pay for with a few hundred dollars and get incredible variation in the components
+GregLynn_2005_112 this is one of those examples of the sets
+GregLynn_2005_113 so for me what was important is that this coffee set which is just a coffee pot a teapot and those are the pots sitting on a tray
+GregLynn_2005_114 that they would have a coherence so they would be greg lynn alessi coffee pots but that everyone who bought one would have a one of a kind object that was unique in some way
+GregLynn_2005_115 to go back to architecture what's organic about architecture as a field unlike product design
+GregLynn_2005_116 is this whole issue of holism and of monumentality is really our realm like we have to design things which are coherent as a single object
+GregLynn_2005_117 but also break down into small rooms and have an identity of both the big scale and the small scale
+GregLynn_2005_118 architects tend to work
+GregLynn_2005_119 with signature
+GregLynn_2005_120 so that an architect needs a signature and that signature has to work across the scale of houses up to say skyscrapers and that problem of signatures is a thing we're very good at maintaining and working with
+GregLynn_2005_121 and intricacy which is the relationship of say the shape of a building its structure its windows its color its pattern
+GregLynn_2005_122 these are real architectural problems so 
+GregLynn_2005_123 my kind of hero
+GregLynn_2005_124 for this in the natural world are these tropical frogs i got
+GregLynn_2005_125 in them because they're the most extreme example of a surface where the texture and the
+GregLynn_2005_126 let's call it the decoration i know the frog doesn't think of it as decoration but that's how it works
+GregLynn_2005_127 are all intricately connected to one another so a change in the form indicates a change in the color pattern 
+GregLynn_2005_128 the pattern and the form aren't the same thing but they really work together and are fused in some way so when doing
+GregLynn_2005_129 a center for the national parks in costa rica we tried to use that idea of a gradient color and a change in texture as the structure moves across the surface of the building 
+GregLynn_2005_130 we also used a continuity of change from a main exhibition hall to a natural history museum so it's all one
+GregLynn_2005_131 continuous change in the massing but within that massing are very different kinds of spaces and forms
+GregLynn_2005_132 in a housing project in valencia spain we're doing the
+GregLynn_2005_133 different towers of housing fused together in shared curves so you get a single mass like a kind of monolith but it breaks down
+GregLynn_2005_134 into individual elements 
+GregLynn_2005_135 can see that that change in massing also gives all forty eight of the apartments a unique shape and size but always within a kind of controlled
+GregLynn_2005_136 limit an envelope of change
+GregLynn_2005_137 i work with a group of other architects we have a company called united architects we were one of the finalists for the world trade center site design
+GregLynn_2005_138 and i think this just shows how
+GregLynn_2005_139 how we were approaching the problem of incredibly large scale construction we wanted to make a kind of gothic cathedral around the footprints of the world trade center site
+GregLynn_2005_140 and to do that we tried to connect up
+GregLynn_2005_141 the five towers into a single system and we looked
+GregLynn_2005_142 there were numerous examples of other architects trying to do the same thing
+GregLynn_2005_143 we really approached it at the level of the typology of the building where we could build these five separate towers but they would all join at the 60th floor and make a kind of single monolithic mass 
+GregLynn_2005_144 with united architects also we made a proposal for the european central bank headquarters that used the same system 
+GregLynn_2005_145 but this time in a much more monolithic mass like a sphere
+GregLynn_2005_146 but again you can see this kind of organic fusion of multiple building elements to make a thing which is whole but breaks down into smaller parts but in an incredibly organic way

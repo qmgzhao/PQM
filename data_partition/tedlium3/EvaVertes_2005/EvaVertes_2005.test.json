@@ -1,0 +1,290 @@
+{
+    "EvaVertes_2005_1": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_1_fbank.pt",
+        "words": " tell you a bit about the past"
+    },
+    "EvaVertes_2005_2": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_2_fbank.pt",
+        "words": " my story starts way before i was born my grandmother was on a train to auschwitz the death death camp and"
+    },
+    "EvaVertes_2005_3": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_3_fbank.pt",
+        "words": " she was going along the tracks and the"
+    },
+    "EvaVertes_2005_4": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_4_fbank.pt",
+        "words": " the tracks split and somehow we don't really know exactly the whole story but the train took the wrong track and went to a"
+    },
+    "EvaVertes_2005_7": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_7_fbank.pt",
+        "words": " and"
+    },
+    "EvaVertes_2005_12": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_12_fbank.pt",
+        "words": " and at forty four she died of stomach cancer"
+    },
+    "EvaVertes_2005_18": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_18_fbank.pt",
+        "words": " i had never been a reader when i was young my dad had tried me with the hardy boys i tried nancy drew i tried all that and i just didn't like reading books"
+    },
+    "EvaVertes_2005_22": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_22_fbank.pt",
+        "words": " i read that book and from"
+    },
+    "EvaVertes_2005_24": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_24_fbank.pt",
+        "words": " i wanted to be like the explorers i'd read about in the book who"
+    },
+    "EvaVertes_2005_25": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_25_fbank.pt",
+        "words": " went into the jungles of africa went into the research labs and just tried to figure out what this deadly virus was"
+    },
+    "EvaVertes_2005_27": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_27_fbank.pt",
+        "words": " and i just loved it so much i was a passive observer observer of the medical world it wasn't until i entered high"
+    },
+    "EvaVertes_2005_31": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_31_fbank.pt",
+        "words": " and i got to go talk to one professor dr jacobs who accepted me into the lab"
+    },
+    "EvaVertes_2005_33": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_33_fbank.pt",
+        "words": " the effects of heavy metals on the developing nervous system so"
+    },
+    "EvaVertes_2005_34": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_34_fbank.pt",
+        "words": " i started that and"
+    },
+    "EvaVertes_2005_37": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_37_fbank.pt",
+        "words": " spinal cord had breaks the neurons were crossing"
+    },
+    "EvaVertes_2005_40": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_40_fbank.pt",
+        "words": " i started reading about alzheimer's and tried to familiarize myself with the research"
+    },
+    "EvaVertes_2005_43": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_43_fbank.pt",
+        "words": " properties and being naive about the whole field i kind of thought oh you have cell death in alzheimer's which is causing the memory deficit and then you have"
+    },
+    "EvaVertes_2005_46": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_46_fbank.pt",
+        "words": " pursued for that year and it's continuing now as well and found that"
+    },
+    "EvaVertes_2005_51": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_51_fbank.pt",
+        "words": " and"
+    },
+    "EvaVertes_2005_54": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_54_fbank.pt",
+        "words": " and i stumbled across something called cancer stem cells and this is really what i want to talk to you about today about cancer"
+    },
+    "EvaVertes_2005_61": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_61_fbank.pt",
+        "words": " the more i read the more i looked at cancer differently and almost became less fearful of it"
+    },
+    "EvaVertes_2005_63": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_63_fbank.pt",
+        "words": " lung cancer arises if you drink you damage your liver and then liver cancer occurs"
+    },
+    "EvaVertes_2005_65": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_65_fbank.pt",
+        "words": " these phenomenal cells"
+    },
+    "EvaVertes_2005_66": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_66_fbank.pt",
+        "words": " that really have the ability to differentiate into any type of tissue so if the body is sensing that you have damage to an organ"
+    },
+    "EvaVertes_2005_67": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_67_fbank.pt",
+        "words": " and then it's initiating cancer it's almost as if this is a repair response and the cancer the body is saying the lung tissue"
+    },
+    "EvaVertes_2005_68": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_68_fbank.pt",
+        "words": " we need to repair the lung and cancer is originating in the lung trying to repair because you have this excessive proliferation"
+    },
+    "EvaVertes_2005_72": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_72_fbank.pt",
+        "words": " really think that we can't think about cancer let alone any disease in such black and white terms"
+    },
+    "EvaVertes_2005_76": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_76_fbank.pt",
+        "words": " cause these cells to differentiate to become bone tissue lung tissue liver tissue whatever that cancer has been put there to do"
+    },
+    "EvaVertes_2005_78": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_78_fbank.pt",
+        "words": " really changed my view of looking at cancer"
+    },
+    "EvaVertes_2005_80": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_80_fbank.pt",
+        "words": " it seemed that the articles a lot of them focused on you know the genetics of breast cancer and the genesis and the progression of breast cancer"
+    },
+    "EvaVertes_2005_81": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_81_fbank.pt",
+        "words": " tracking the cancer through the body tracing where"
+    },
+    "EvaVertes_2005_83": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_83_fbank.pt",
+        "words": " cancer of the heart or cancer of any skeletal muscle for that matter"
+    },
+    "EvaVertes_2005_84": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_84_fbank.pt",
+        "words": " and skeletal muscle constitutes fifty percent of our body or over fifty percent of our body"
+    },
+    "EvaVertes_2005_86": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_86_fbank.pt",
+        "words": " at first i kind of thought well maybe there's some obvious explanation why skeletal muscle doesn't get cancer at least not that i know of"
+    },
+    "EvaVertes_2005_87": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_87_fbank.pt",
+        "words": " i looked further into it found as many articles as i could and it was amazing because"
+    },
+    "EvaVertes_2005_91": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_91_fbank.pt",
+        "words": " that's what a metastasis is it's the part of cancer that is the most dangerous if cancer was localized"
+    },
+    "EvaVertes_2005_92": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_92_fbank.pt",
+        "words": " we could likely remove it or somehow"
+    },
+    "EvaVertes_2005_96": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_96_fbank.pt",
+        "words": " i decided to ask why at first the first thing i did was i emailed some professors who specialized in skeletal muscle"
+    },
+    "EvaVertes_2005_98": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_98_fbank.pt",
+        "words": " muscle is terminally differentiated tissue meaning that"
+    },
+    "EvaVertes_2005_103": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_103_fbank.pt",
+        "words": " here's some of i guess my hypotheses that i'll be starting to investigate this this may at the sylvester cancer"
+    },
+    "EvaVertes_2005_104": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_104_fbank.pt",
+        "words": " institute in miami and"
+    },
+    "EvaVertes_2005_105": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_105_fbank.pt",
+        "words": " i guess i'll keep investigating until"
+    },
+    "EvaVertes_2005_108": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_108_fbank.pt",
+        "words": " some of my hypotheses are that when you first think about skeletal muscle"
+    },
+    "EvaVertes_2005_109": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_109_fbank.pt",
+        "words": " there's a lot of blood vessels going to skeletal muscle and the first thing that makes me think is that"
+    },
+    "EvaVertes_2005_110": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_110_fbank.pt",
+        "words": " blood vessels are like highways for the tumor cells"
+    },
+    "EvaVertes_2005_113": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_113_fbank.pt",
+        "words": " tumors require a process called angiogenesis which is really"
+    },
+    "EvaVertes_2005_114": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_114_fbank.pt",
+        "words": " really the tumor recruits the blood vessels to itself to supply itself with nutrients so it can grow"
+    },
+    "EvaVertes_2005_115": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_115_fbank.pt",
+        "words": " without angiogenesis the tumor remains the size"
+    },
+    "EvaVertes_2005_116": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_116_fbank.pt",
+        "words": " of a pinpoint"
+    },
+    "EvaVertes_2005_117": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_117_fbank.pt",
+        "words": " and it's not harmful so angiogenesis is really a central process to the pathogenesis of cancer"
+    },
+    "EvaVertes_2005_121": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_121_fbank.pt",
+        "words": " to skeletal muscle upon autopsy sixteen percent meaning that there there were these pinpoint tumors in skeletal muscle"
+    },
+    "EvaVertes_2005_125": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_125_fbank.pt",
+        "words": " is it possible that"
+    },
+    "EvaVertes_2005_126": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_126_fbank.pt",
+        "words": " muscle somehow intuitively knows that it needs this blood supply"
+    },
+    "EvaVertes_2005_128": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_128_fbank.pt",
+        "words": " it can't get a blood supply and can't grow so this suggests that maybe if there"
+    },
+    "EvaVertes_2005_130": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_130_fbank.pt",
+        "words": " this could be a potential future therapy for cancer and"
+    },
+    "EvaVertes_2005_131": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_131_fbank.pt",
+        "words": " another thing that's really interesting is that"
+    },
+    "EvaVertes_2005_133": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_133_fbank.pt",
+        "words": " tumors move throughout the body it's a very complex system and there's something called the chemokine network"
+    },
+    "EvaVertes_2005_135": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_135_fbank.pt",
+        "words": " so a tumor a tumor expresses chemokine receptors and another organ a distant organ"
+    },
+    "EvaVertes_2005_137": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_137_fbank.pt",
+        "words": " will have the corresponding chemokines and the tumor will see these chemokines and migrate towards it"
+    },
+    "EvaVertes_2005_145": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_145_fbank.pt",
+        "words": " by investigating by attacking cancer by searching where cancer is not there has got to be something there's got to be something that's"
+    },
+    "EvaVertes_2005_146": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_146_fbank.pt",
+        "words": " making this tissue resistant to tumors and can we utilize can we take this"
+    },
+    "EvaVertes_2005_151": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_151_fbank.pt",
+        "words": " and what myod essentially does"
+    },
+    "EvaVertes_2005_152": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_152_fbank.pt",
+        "words": " is it causes cells to differentiate into muscle cells"
+    },
+    "EvaVertes_2005_157": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_157_fbank.pt",
+        "words": " in contact inside the skeletal muscle tissue myod acts upon these tumor cells and causes them to become"
+    },
+    "EvaVertes_2005_160": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_160_fbank.pt",
+        "words": " it's not harmful it has just repaired the muscle muscle is constantly being used constantly being damaged"
+    },
+    "EvaVertes_2005_161": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_161_fbank.pt",
+        "words": " if every time we tore a muscle or every time we stretched a muscle or moved in a wrong way"
+    },
+    "EvaVertes_2005_167": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_167_fbank.pt",
+        "words": " counteract something the body is saying to do it's different when a bacteria comes into the"
+    },
+    "EvaVertes_2005_170": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_170_fbank.pt",
+        "words": " to go to go from there it's"
+    },
+    "EvaVertes_2005_173": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_173_fbank.pt",
+        "words": " the brain the brain cells die and we need to restore new brain cells new functional brain cells what if we could"
+    },
+    "EvaVertes_2005_175": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_175_fbank.pt",
+        "words": " into brain cells"
+    },
+    "EvaVertes_2005_177": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_177_fbank.pt",
+        "words": " cells are so versatile we just have to manipulate them in the right way and again some of these may be far fetched but"
+    },
+    "EvaVertes_2005_179": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/EvaVertes_2005/test/EvaVertes_2005_179_fbank.pt",
+        "words": " thank you very much"
+    }
+}

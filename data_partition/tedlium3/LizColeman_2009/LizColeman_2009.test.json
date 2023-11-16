@@ -1,0 +1,270 @@
+{
+    "LizColeman_2009_0": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_0_fbank.pt",
+        "words": " college presidents are not the first people who come to mind"
+    },
+    "LizColeman_2009_2": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_2_fbank.pt",
+        "words": " i was invited to meet with leading educators from the newly free eastern europe and russia"
+    },
+    "LizColeman_2009_5": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_5_fbank.pt",
+        "words": " if they were to provide an education worthy of free men and women given this rare"
+    },
+    "LizColeman_2009_7": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_7_fbank.pt",
+        "words": " having made that decision they came to the united states home of liberal arts education to talk with some of us most closely identified"
+    },
+    "LizColeman_2009_9": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_9_fbank.pt",
+        "words": " that for me was a voice i had not heard in decades a dream long forgotten"
+    },
+    "LizColeman_2009_12": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_12_fbank.pt",
+        "words": " but for me"
+    },
+    "LizColeman_2009_16": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_16_fbank.pt",
+        "words": " where they no longer provide"
+    },
+    "LizColeman_2009_25": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_25_fbank.pt",
+        "words": " the progression of today's college student is to jettison every interest except one"
+    },
+    "LizColeman_2009_26": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_26_fbank.pt",
+        "words": " and within that one to continually narrow the focus learning more and more about less and less"
+    },
+    "LizColeman_2009_27": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_27_fbank.pt",
+        "words": " this despite the evidence all around us of the interconnectedness of things"
+    },
+    "LizColeman_2009_31": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_31_fbank.pt",
+        "words": " questions such as what kind of a world are we making what kind of a world should we be making what kind of a world can we be making"
+    },
+    "LizColeman_2009_37": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_37_fbank.pt",
+        "words": " either we have lost touch with those values or no better believe they need not or cannot be taught"
+    },
+    "LizColeman_2009_38": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_38_fbank.pt",
+        "words": " this aversion to social values may seem at odds with the explosion of community service programs but despite the attention paid to"
+    },
+    "LizColeman_2009_40": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_40_fbank.pt",
+        "words": " is treated as outside the realm of what purports to be serious thinking and adult purposes simply put"
+    },
+    "LizColeman_2009_43": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_43_fbank.pt",
+        "words": " than to create a sense of empowerment this brew"
+    },
+    "LizColeman_2009_44": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_44_fbank.pt",
+        "words": " oversimplification of civic engagement"
+    },
+    "LizColeman_2009_48": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_48_fbank.pt",
+        "words": " connections between education and the public good between intellectual integrity"
+    },
+    "LizColeman_2009_50": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_50_fbank.pt",
+        "words": " posed to and by"
+    },
+    "LizColeman_2009_52": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_52_fbank.pt",
+        "words": " were more than enough i can assure you to give one pause"
+    },
+    "LizColeman_2009_56": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_56_fbank.pt",
+        "words": " desperate straits and that was only the beginning"
+    },
+    "LizColeman_2009_58": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_58_fbank.pt",
+        "words": " separation of powers civil liberties"
+    },
+    "LizColeman_2009_59": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_59_fbank.pt",
+        "words": " the rule of law the relationship of church and state accompanied by a squandering of the nation's material wealth"
+    },
+    "LizColeman_2009_62": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_62_fbank.pt",
+        "words": " at the same time"
+    },
+    "LizColeman_2009_64": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_64_fbank.pt",
+        "words": " when it came to halting or even stemming the slaughter in rwanda"
+    },
+    "LizColeman_2009_70": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_70_fbank.pt",
+        "words": " who do believe in it actually understand it"
+    },
+    "LizColeman_2009_71": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_71_fbank.pt",
+        "words": " incredibly this nation"
+    },
+    "LizColeman_2009_72": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_72_fbank.pt",
+        "words": " with all its material intellectual and spiritual resources seems utterly helpless to reverse the freefall in any of these areas"
+    },
+    "LizColeman_2009_73": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_73_fbank.pt",
+        "words": " equally startling from my point of view is the fact that no one"
+    },
+    "LizColeman_2009_77": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_77_fbank.pt",
+        "words": " you can be sure jefferson knew what he was talking about when he said"
+    },
+    "LizColeman_2009_81": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_81_fbank.pt",
+        "words": " impossible for me to avoid the question what will i say years from now when people ask' where were you'"
+    },
+    "LizColeman_2009_82": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_82_fbank.pt",
+        "words": " as president of a leading liberal arts college famous for its innovative history there were no excuses"
+    },
+    "LizColeman_2009_84": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_84_fbank.pt",
+        "words": " radical rethinking of basic assumptions beginning with our priorities"
+    },
+    "LizColeman_2009_87": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_87_fbank.pt",
+        "words": " our ways of approaching agency and authority turn inside out"
+    },
+    "LizColeman_2009_90": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_90_fbank.pt",
+        "words": " has the responsibility"
+    },
+    "LizColeman_2009_91": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_91_fbank.pt",
+        "words": " for trying and participating in finding them"
+    },
+    "LizColeman_2009_92": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_92_fbank.pt",
+        "words": " bennington would continue to teach the arts and sciences as areas of immersion that acknowledge differences in personal and professional objectives"
+    },
+    "LizColeman_2009_94": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_94_fbank.pt",
+        "words": " redressed our shared purposes assume an equal if not greater importance"
+    },
+    "LizColeman_2009_103": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_103_fbank.pt",
+        "words": " and sustainable difference"
+    },
+    "LizColeman_2009_104": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_104_fbank.pt",
+        "words": " contrary to widely held assumptions an emphasis on action provides a special urgency to thinking"
+    },
+    "LizColeman_2009_107": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_107_fbank.pt",
+        "words": " cannot tell them what they"
+    },
+    "LizColeman_2009_108": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_108_fbank.pt",
+        "words": " to know when the issue is rethinking education our approach to health or strategies for achieving an economics of equity"
+    },
+    "LizColeman_2009_109": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_109_fbank.pt",
+        "words": " the value of the past also comes alive"
+    },
+    "LizColeman_2009_110": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_110_fbank.pt",
+        "words": " it provides a lot of company you are not the first to try to figure this out just as you are unlikely to be the last"
+    },
+    "LizColeman_2009_113": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_113_fbank.pt",
+        "words": " in the language of my students deep thought matters"
+    },
+    "LizColeman_2009_114": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_114_fbank.pt",
+        "words": " when you're contemplating what to do about things that matter a new liberal"
+    },
+    "LizColeman_2009_117": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_117_fbank.pt",
+        "words": " mediation and improvisation also assume a special place in this new pantheon"
+    },
+    "LizColeman_2009_120": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_120_fbank.pt",
+        "words": " systematically between what is at the core and what is at the periphery"
+    },
+    "LizColeman_2009_122": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_122_fbank.pt",
+        "words": " the more powerful our reach the more important the question about what"
+    },
+    "LizColeman_2009_123": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_123_fbank.pt",
+        "words": " when improvisation resourcefulness imagination are key artists at long last take their place at the table when strategies of action are in the process of being designed"
+    },
+    "LizColeman_2009_124": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_124_fbank.pt",
+        "words": " in this dramatically expanded ideal of a liberal arts education"
+    },
+    "LizColeman_2009_127": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_127_fbank.pt",
+        "words": " social activists business leaders lawyers politicians professionals will join the faculty as active and ongoing participants in this wedding of liberal education to the advancement of the public good"
+    },
+    "LizColeman_2009_129": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_129_fbank.pt",
+        "words": " and of course this new wine needs new bottles"
+    },
+    "LizColeman_2009_130": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_130_fbank.pt",
+        "words": " if we are to capture the liveliness and dynamism"
+    },
+    "LizColeman_2009_136": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_136_fbank.pt",
+        "words": " ideology zealotry unsubstantiated opinions simply won't do"
+    },
+    "LizColeman_2009_137": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_137_fbank.pt",
+        "words": " this is a political education"
+    },
+    "LizColeman_2009_142": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_142_fbank.pt",
+        "words": " the center will embody and sustain this new"
+    },
+    "LizColeman_2009_143": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_143_fbank.pt",
+        "words": " educational commitment think of it as a kind of secular church"
+    },
+    "LizColeman_2009_144": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_144_fbank.pt",
+        "words": " the words on the card describe what will happen inside"
+    },
+    "LizColeman_2009_146": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_146_fbank.pt",
+        "words": " to developing strategies for acting on the critical challenges of our time"
+    },
+    "LizColeman_2009_153": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_153_fbank.pt",
+        "words": " in being sidelined by the idea of the expert as the only one capable of coming up with answers"
+    },
+    "LizColeman_2009_155": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_155_fbank.pt",
+        "words": " as a viable democracy made up of experts"
+    },
+    "LizColeman_2009_158": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_158_fbank.pt",
+        "words": " will not yield the flexibilities of mind"
+    },
+    "LizColeman_2009_161": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_161_fbank.pt",
+        "words": " is that the individual talent exhibited in such abundance here"
+    },
+    "LizColeman_2009_162": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_162_fbank.pt",
+        "words": " needs to turn its attention to that collaborative messy frustrating contentious and impossible world of politics and public policy"
+    },
+    "LizColeman_2009_164": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_164_fbank.pt",
+        "words": " if the question of where to start seems overwhelming you are at the beginning not the end of this adventure"
+    },
+    "LizColeman_2009_166": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_166_fbank.pt",
+        "words": " if you are serious about trying to get at things that really matter on a scale that makes a difference so what do you do when you feel overwhelmed"
+    },
+    "LizColeman_2009_167": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/LizColeman_2009/test/LizColeman_2009_167_fbank.pt",
+        "words": " well you have two things you have a mind and you have other people start with those and change the world"
+    }
+}

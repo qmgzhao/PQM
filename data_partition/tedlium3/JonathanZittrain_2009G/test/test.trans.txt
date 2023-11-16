@@ -1,0 +1,61 @@
+JonathanZittrain_2009G_3 simple example we could run a test here how many people have ever hitchhiked 
+JonathanZittrain_2009G_9 itself these are three of the founders of the internet they were actually high school classmates together at the same high school in suburban los angles in the 
+JonathanZittrain_2009G_10 you might have had a french club or a debate club they had a let's build a global network club and it worked out very well they are pictured
+JonathanZittrain_2009G_11 anniversary newsweek retrospective on the internet and as you can tell they are basically goof balls 
+JonathanZittrain_2009G_13 the limitation was that they didn't have any money no particular amount of capital to invest
+JonathanZittrain_2009G_14 of the sort that for a physical network you might need for trucks and people and a hub to move packages around overnight they had none of that
+JonathanZittrain_2009G_16 the internet has no business plan never did no ceo
+JonathanZittrain_2009G_18 it's folks getting together to do something for fun rather than because they were told to or because they were expecting to make a mint off of it
+JonathanZittrain_2009G_19 that ethos led to a network architecture a structure that was unlike other digital networks then or since so unusual in fact that it was said that it's not clear the internet could
+JonathanZittrain_2009G_23 ratio of the bumblebee is far too large for it to be able to fly and yet mysteriously somehow the bee flies 
+JonathanZittrain_2009G_25 's very complicated but it turns out they flap their wings very quickly
+JonathanZittrain_2009G_27 architecture configuration that makes the network sing and be so unusual well to move data around from one place to another again it's not like a package courier it's more like a mosh pit
+JonathanZittrain_2009G_28 imagine you being part of a network where you're maybe at a sporting event and you're sitting in rows like this and somebody asks for a beer 
+JonathanZittrain_2009G_30 your neighborly duty is to pass the beer along at risk to your own trousers
+JonathanZittrain_2009G_32 no one pays you to do this it's just part of your neighborly duty
+JonathanZittrain_2009G_33 and in a way that's exactly how packets move around the internet sometimes in as many as twenty five or thirty
+JonathanZittrain_2009G_34 with the intervening entities that are passing the data around having no particular contractual or legal obligation to the original sender or to the receiver
+JonathanZittrain_2009G_35 now of course in a mosh pit it's hard to specify a destination
+JonathanZittrain_2009G_36 you need a lot of trust but it's not like i'm trying to get to pensacola please so
+JonathanZittrain_2009G_41 you have a general sense of where everything is this is how internet addressing and routing actually work
+JonathanZittrain_2009G_43 which also makes it very delicate and vulnerable
+JonathanZittrain_2009G_44 in rare but striking instances a single lie told by just one entity in this honeycomb
+JonathanZittrain_2009G_51 from subscribers going to youtube stopped at the isp since they thought they were already there and the isp threw them away unopened because the point was to block it 
+JonathanZittrain_2009G_53 announcement went one click out which got reverberated one click out and it turns out that as you look at the postmortem of this event you have at one moment perfectly working youtube 
+JonathanZittrain_2009G_56 now just think about that one of the most popular websites in the world run by the most powerful company in the world and there was nothing
+JonathanZittrain_2009G_57 that youtube or google
+JonathanZittrain_2009G_58 were particularly privileged to do about it and yet somehow within about two hours the problem was fixed
+JonathanZittrain_2009G_61 a group of people who on a beautiful day outside enter into a windowless room at their terminals
+JonathanZittrain_2009G_62 reading
+JonathanZittrain_2009G_63 email and messages in
+JonathanZittrain_2009G_65 and they talk about networks and some of them are mid level employees at internet service providers around the world and here is the message where one of them says looks like we've got a live one we 
+JonathanZittrain_2009G_68 's kind of like if your house catches on fire
+JonathanZittrain_2009G_78 in fact wikipedia is an idea so profoundly stupid
+JonathanZittrain_2009G_82 the wiki was introduced so others could make suggestions on edits as almost an afterthought a back room 
+JonathanZittrain_2009G_83 and then it turns out the back room grew to encompass the entire project and today wikipedia is so ubiquitous that you can now
+JonathanZittrain_2009G_87 metaphorically speaking and there are a bunch of people who on a sunny day would rather be inside
+JonathanZittrain_2009G_91 andyvphil if you're here today i'm not taking sides anon attacking me for reverting here is my favorite a long story
+JonathanZittrain_2009G_92 it turns out there are more people checking this page for problems and wanting to solve them than there are problems arising on the page 
+JonathanZittrain_2009G_95 it's this thin geeky line that keeps it going
+JonathanZittrain_2009G_96 not because it's a job not because it's a career but because it's a
+JonathanZittrain_2009G_98 unit civility maturity responsibility to just clean up the pages 
+JonathanZittrain_2009G_99 it does make you wonder if there were for instance a massive extremely popular star trek convention one weekend who would be minding the store
+JonathanZittrain_2009G_101 what we see in this phenomenon
+JonathanZittrain_2009G_103 of the external rules and signs and everything else you can actually end up with a safer environment in
+JonathanZittrain_2009G_106 the poor teenager who filmed himself with a golf ball retriever acting as if it were a light saber
+JonathanZittrain_2009G_108 now it being encyclopedic and all wikipedia had to do an article about star wars kid 
+JonathanZittrain_2009G_110 on both sides here is just a snapshot of some of them
+JonathanZittrain_2009G_116 all over the place i mean this is a two thousand and five business week cover wow blogs are going to change your business i know they look silly and sure they look silly 
+JonathanZittrain_2009G_122 you know i think that's an animal carcass behind her
+JonathanZittrain_2009G_123 and it's one after the other but then you hit this one
+JonathanZittrain_2009G_126 i believe we can build architectures online to make such human requests that much easier to do to make it possible for 
+JonathanZittrain_2009G_128 and to be able to have an ethical moment where we decide how we want to treat it i even think it can go into the real world we can end up as we get in a world with more 
+JonathanZittrain_2009G_132 so that people can report the filtering as they encounter it and it's no longer just a i don't know i couldn't get
+JonathanZittrain_2009G_133 i guess i'll move on but suddenly a collective consciousness about what is blocked and censored where online
+JonathanZittrain_2009G_134 in fact talk about technology imitating life imitating tech or maybe it's the other way around an nyu researcher here took little cardboard 
+JonathanZittrain_2009G_139 that leads to example number three hitchhiking i'm not so sure
+JonathanZittrain_2009G_142 it were called the craigslist hitchhiking board tumbleweeds would be blowing through it but it's the rideshare board and it's basically the same thing now why are people using it 
+JonathanZittrain_2009G_145 i think the actual answer is that once you reframe it once you get out of one set of stale expectations from a failed project that had its day but now 
+JonathanZittrain_2009G_146 for whatever reason is tarnished you can actually rekindle the kind of human kindness and sharing that something like this on craigslist represents and then you can highlight it
+JonathanZittrain_2009G_148 with people who live far away and would like someone they don't know to sleep on their couch for free
+JonathanZittrain_2009G_149 it's a

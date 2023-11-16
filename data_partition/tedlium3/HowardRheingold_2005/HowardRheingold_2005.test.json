@@ -1,0 +1,274 @@
+{
+    "HowardRheingold_2005_1": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_1_fbank.pt",
+        "words": " in helping reshape the story about how humans and other critters get things"
+    },
+    "HowardRheingold_2005_7": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_7_fbank.pt",
+        "words": " is about your side winning"
+    },
+    "HowardRheingold_2005_9": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_9_fbank.pt",
+        "words": " but i think we can see the very beginnings of a new story beginning to emerge"
+    },
+    "HowardRheingold_2005_13": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_13_fbank.pt",
+        "words": " i started thinking about the relationship between"
+    },
+    "HowardRheingold_2005_15": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_15_fbank.pt",
+        "words": " media and"
+    },
+    "HowardRheingold_2005_18": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_18_fbank.pt",
+        "words": " human communication media and"
+    },
+    "HowardRheingold_2005_19": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_19_fbank.pt",
+        "words": " the ways in which we organize"
+    },
+    "HowardRheingold_2005_21": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_21_fbank.pt",
+        "words": " settled agricultural civilization"
+    },
+    "HowardRheingold_2005_22": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_22_fbank.pt",
+        "words": " in small family groups nomadic hunters bring down rabbits gathering food"
+    },
+    "HowardRheingold_2005_24": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_24_fbank.pt",
+        "words": " but at some point"
+    },
+    "HowardRheingold_2005_25": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_25_fbank.pt",
+        "words": " they banded together to hunt bigger game and we don't know exactly how they did this although"
+    },
+    "HowardRheingold_2005_31": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_31_fbank.pt",
+        "words": " did the people who ate that mastodon meat owe something to the hunters and their families and"
+    },
+    "HowardRheingold_2005_35": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_35_fbank.pt",
+        "words": " who began hiring people to keep track of the wheat and sheep and wine"
+    },
+    "HowardRheingold_2005_41": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_41_fbank.pt",
+        "words": " millions of people became literate"
+    },
+    "HowardRheingold_2005_53": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_53_fbank.pt",
+        "words": " or a marketplace"
+    },
+    "HowardRheingold_2005_56": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_56_fbank.pt",
+        "words": " to see a significant proportion if not the majority of the human race walking around"
+    },
+    "HowardRheingold_2005_57": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_57_fbank.pt",
+        "words": " holding"
+    },
+    "HowardRheingold_2005_58": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_58_fbank.pt",
+        "words": " carrying or wearing supercomputers linked at speeds greater than what we consider to be broadband today"
+    },
+    "HowardRheingold_2005_62": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_62_fbank.pt",
+        "words": " now when i talked about this with kevin kelly he assured me that everybody in this audience"
+    },
+    "HowardRheingold_2005_63": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_63_fbank.pt",
+        "words": " pretty much knows the details of the prisoner's dilemma"
+    },
+    "HowardRheingold_2005_67": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_67_fbank.pt",
+        "words": " let me just say that every unsecured transaction is a good example of a prisoner's dilemma person with the"
+    },
+    "HowardRheingold_2005_69": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_69_fbank.pt",
+        "words": " or they're going to get the sucker's payoff but both lose of course because they don't get what they want if they could only agree if they could only turn a prisoner's dilemma into"
+    },
+    "HowardRheingold_2005_70": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_70_fbank.pt",
+        "words": " a different payoff matrix called an assurance game they could proceed"
+    },
+    "HowardRheingold_2005_72": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_72_fbank.pt",
+        "words": " if we are here because our ancestors were such fierce competitors how does cooperation exist at all he started a computer tournament for people to submit prisoner"
+    },
+    "HowardRheingold_2005_73": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_73_fbank.pt",
+        "words": " 's dilemma strategies and discovered much to his surprise that a very very simple strategy won"
+    },
+    "HowardRheingold_2005_74": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_74_fbank.pt",
+        "words": " it won the first tournament and even after everyone knew it won"
+    },
+    "HowardRheingold_2005_76": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_76_fbank.pt",
+        "words": " another economic game that may not be as well known as the prisoner's dilemma is the ultimatum game"
+    },
+    "HowardRheingold_2005_77": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_77_fbank.pt",
+        "words": " and it's also a very interesting probe of our assumptions about"
+    },
+    "HowardRheingold_2005_78": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_78_fbank.pt",
+        "words": " the way people make economic transactions here's how the game is played"
+    },
+    "HowardRheingold_2005_82": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_82_fbank.pt",
+        "words": " either accepts the split both"
+    },
+    "HowardRheingold_2005_85": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_85_fbank.pt",
+        "words": " now the fundamental basis of neoclassical economics would tell you it's irrational to reject a dollar because someone you don't know in another room is"
+    },
+    "HowardRheingold_2005_86": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_86_fbank.pt",
+        "words": " going to get ninety nine yet in thousands of trials with american and european and japanese students"
+    },
+    "HowardRheingold_2005_90": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_90_fbank.pt",
+        "words": " now the interesting part comes in more recently when anthropologists began taking this game to other cultures"
+    },
+    "HowardRheingold_2005_94": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_94_fbank.pt",
+        "words": " can be influenced by"
+    },
+    "HowardRheingold_2005_98": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_98_fbank.pt",
+        "words": " by simply maximizing their own flock led to overgrazing and the depletion of the resource he had the rather gloomy conclusion that humans will inevitably despoil any common pool resource"
+    },
+    "HowardRheingold_2005_100": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_100_fbank.pt",
+        "words": " now elinor ostrom a political scientist in one thousand nine hundred and ninety ninety asked the interesting question that any good scientist should ask which is is"
+    },
+    "HowardRheingold_2005_101": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_101_fbank.pt",
+        "words": " it really true that humans will always despoil commons so she went out and looked at what data she could find she looked at thousands of"
+    },
+    "HowardRheingold_2005_104": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_104_fbank.pt",
+        "words": " the tragedy of the commons is a multiplayer prisoner's dilemma and she said that people are only prisoners"
+    },
+    "HowardRheingold_2005_105": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_105_fbank.pt",
+        "words": " if they consider themselves to be"
+    },
+    "HowardRheingold_2005_106": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_106_fbank.pt",
+        "words": " they escape by creating institutions for collective action and she discovered i think most interestingly that"
+    },
+    "HowardRheingold_2005_110": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_110_fbank.pt",
+        "words": " group selection evolutionary psychology are contested to be sure"
+    },
+    "HowardRheingold_2005_111": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_111_fbank.pt",
+        "words": " but there is really no longer any major debate"
+    },
+    "HowardRheingold_2005_114": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_114_fbank.pt",
+        "words": " have been overturned rational"
+    },
+    "HowardRheingold_2005_118": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_118_fbank.pt",
+        "words": " show activity in the reward centers of their brain which led one scientist"
+    },
+    "HowardRheingold_2005_119": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_119_fbank.pt",
+        "words": " to declare that altruistic punishment"
+    },
+    "HowardRheingold_2005_121": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_121_fbank.pt",
+        "words": " i've been talking about how new forms of communication and new media in the past have helped create new economic forms"
+    },
+    "HowardRheingold_2005_122": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_122_fbank.pt",
+        "words": " commerce is ancient markets are very old capitalism is fairly recent socialism emerged as a reaction to that"
+    },
+    "HowardRheingold_2005_123": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_123_fbank.pt",
+        "words": " and yet we see very little talk about how the next form may be emerging"
+    },
+    "HowardRheingold_2005_126": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_126_fbank.pt",
+        "words": " moving into yet another economic form that is significantly different from previous ones"
+    },
+    "HowardRheingold_2005_129": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_129_fbank.pt",
+        "words": " their software are providing portfolios of patents for the commons"
+    },
+    "HowardRheingold_2005_131": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_131_fbank.pt",
+        "words": " for pharmaceutical problems"
+    },
+    "HowardRheingold_2005_136": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_136_fbank.pt",
+        "words": " open source production"
+    },
+    "HowardRheingold_2005_138": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_138_fbank.pt",
+        "words": " can be created with neither the bureaucratic structure of the firm"
+    },
+    "HowardRheingold_2005_140": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_140_fbank.pt",
+        "words": " by enriching thousands of bloggers through adsense"
+    },
+    "HowardRheingold_2005_141": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_141_fbank.pt",
+        "words": " amazon has opened its application programming interface to sixty thousand developers"
+    },
+    "HowardRheingold_2005_145": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_145_fbank.pt",
+        "words": " into an assurance game instead of neither of us can trust each other so we have to make suboptimal moves it's you"
+    },
+    "HowardRheingold_2005_146": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_146_fbank.pt",
+        "words": " prove to me that you are trustworthy and i will cooperate"
+    },
+    "HowardRheingold_2005_147": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_147_fbank.pt",
+        "words": " wikipedia has used thousands of volunteers to create a free encyclopedia"
+    },
+    "HowardRheingold_2005_150": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_150_fbank.pt",
+        "words": " ngos"
+    },
+    "HowardRheingold_2005_153": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_153_fbank.pt",
+        "words": " rehydrating cholera victims that's so simple to use it illiterates can be trained to use it"
+    },
+    "HowardRheingold_2005_155": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_155_fbank.pt",
+        "words": " millions of people have contributed their desktop computers when they're not using them"
+    },
+    "HowardRheingold_2005_156": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_156_fbank.pt",
+        "words": " to link together through the internet into supercomputing collectives"
+    },
+    "HowardRheingold_2005_157": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_157_fbank.pt",
+        "words": " that help solve the protein folding problem for medical researchers that's folding @ home at stanford"
+    },
+    "HowardRheingold_2005_158": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_158_fbank.pt",
+        "words": " to crack codes to search for life in outer space"
+    },
+    "HowardRheingold_2005_159": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_159_fbank.pt",
+        "words": " i don't think we know enough yet i don't think we've even begun to discover what the basic principles are but i think we can begin to think about them"
+    },
+    "HowardRheingold_2005_162": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_162_fbank.pt",
+        "words": " in el salvador both sides that withdrew from their civil war took moves that had been proven to mirror a prisoner's dilemma strategy"
+    },
+    "HowardRheingold_2005_164": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_164_fbank.pt",
+        "words": " around the world citizens have"
+    },
+    "HowardRheingold_2005_169": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/HowardRheingold_2005/test/HowardRheingold_2005_169_fbank.pt",
+        "words": " and sometimes people cooperate to do bad things but i will remind you that a few hundred years ago people saw their loved ones die from diseases they thought"
+    }
+}

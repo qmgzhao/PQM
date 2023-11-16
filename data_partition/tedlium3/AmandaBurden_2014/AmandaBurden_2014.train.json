@@ -1,0 +1,274 @@
+{
+    "AmandaBurden_2014_1": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_1_fbank.pt",
+        "words": " but when i think about cities i think about"
+    },
+    "AmandaBurden_2014_2": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_2_fbank.pt",
+        "words": " fundamentally about people and where people go and where people meet are at the core of what makes a city work"
+    },
+    "AmandaBurden_2014_3": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_3_fbank.pt",
+        "words": " so even more important than buildings in a city"
+    },
+    "AmandaBurden_2014_5": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_5_fbank.pt",
+        "words": " and today some of the most transformative changes in cities are happening in these public spaces"
+    },
+    "AmandaBurden_2014_7": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_7_fbank.pt",
+        "words": " i believe that lively enjoyable public spaces are the key to planning a great city they are what makes it come alive"
+    },
+    "AmandaBurden_2014_13": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_13_fbank.pt",
+        "words": " one of the first spaces that i studied"
+    },
+    "AmandaBurden_2014_14": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_14_fbank.pt",
+        "words": " was this little vest pocket park called paley park in midtown manhattan this little space became"
+    },
+    "AmandaBurden_2014_18": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_18_fbank.pt",
+        "words": " i saw firsthand that they required incredible dedication and enormous attention to detail"
+    },
+    "AmandaBurden_2014_19": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_19_fbank.pt",
+        "words": " but what was it about this space that made it special and drew people to it"
+    },
+    "AmandaBurden_2014_21": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_21_fbank.pt",
+        "words": " people would come in find their own seat move"
+    },
+    "AmandaBurden_2014_24": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_24_fbank.pt",
+        "words": " and it was green this little park provided what new yorkers crave comfort and greenery"
+    },
+    "AmandaBurden_2014_28": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_28_fbank.pt",
+        "words": " so here you see a familiar sight"
+    },
+    "AmandaBurden_2014_34": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_34_fbank.pt",
+        "words": " architects love them they are plinths for their creations they might tolerate a sculpture"
+    },
+    "AmandaBurden_2014_39": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_39_fbank.pt",
+        "words": " i wanted to be able to create places that"
+    },
+    "AmandaBurden_2014_40": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_40_fbank.pt",
+        "words": " would give you the feeling that you got in paley park and not"
+    },
+    "AmandaBurden_2014_42": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_42_fbank.pt",
+        "words": " but over the many years i have learned how hard it is to create successful meaningful enjoyable public spaces"
+    },
+    "AmandaBurden_2014_44": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_44_fbank.pt",
+        "words": " especially in a city like new york where public space has"
+    },
+    "AmandaBurden_2014_47": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_47_fbank.pt",
+        "words": " but they are also opportunities for the common good of the city"
+    },
+    "AmandaBurden_2014_51": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_51_fbank.pt",
+        "words": " so we came up with a radical almost insane idea"
+    },
+    "AmandaBurden_2014_52": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_52_fbank.pt",
+        "words": " instead of building a park as a complement to future development why don't we reverse that equation"
+    },
+    "AmandaBurden_2014_54": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_54_fbank.pt",
+        "words": " so we only could afford to build a two block section of what would become a mile long esplanade"
+    },
+    "AmandaBurden_2014_62": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_62_fbank.pt",
+        "words": " in this photo"
+    },
+    "AmandaBurden_2014_64": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_64_fbank.pt",
+        "words": " the back on that bench the trees in planting and the many different kinds of places to sit were all little battles that turned this project into a place that people wanted to be"
+    },
+    "AmandaBurden_2014_66": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_66_fbank.pt",
+        "words": " when michael bloomberg asked me to be his planning commissioner and put me in charge of shaping the entire city of new york"
+    },
+    "AmandaBurden_2014_68": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_68_fbank.pt",
+        "words": " so where are you going to put one million additional new yorkers"
+    },
+    "AmandaBurden_2014_72": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_72_fbank.pt",
+        "words": " how were we going to find housing for that many new new yorkers"
+    },
+    "AmandaBurden_2014_73": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_73_fbank.pt",
+        "words": " and if we couldn't spread out which was probably a good thing where could new housing go"
+    },
+    "AmandaBurden_2014_75": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_75_fbank.pt",
+        "words": " what were we going to do"
+    },
+    "AmandaBurden_2014_77": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_77_fbank.pt",
+        "words": " and if we had to go up we had to go up in places where you wouldn't need to own a car so that meant using one of our greatest assets"
+    },
+    "AmandaBurden_2014_81": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_81_fbank.pt",
+        "words": " channel and redirect all new development around transit we could actually handle that population increase we thought"
+    },
+    "AmandaBurden_2014_84": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_84_fbank.pt",
+        "words": " and prohibiting any development at all in our"
+    },
+    "AmandaBurden_2014_87": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_87_fbank.pt",
+        "words": " i began listening in fact thousands of hours of listening"
+    },
+    "AmandaBurden_2014_90": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_90_fbank.pt",
+        "words": " i began walking i can't tell you how many blocks i walked in sweltering summers in freezing winters"
+    },
+    "AmandaBurden_2014_91": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_91_fbank.pt",
+        "words": " year after year just so i could get to understand the dna of each neighborhood and know what"
+    },
+    "AmandaBurden_2014_92": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_92_fbank.pt",
+        "words": " each street felt like i became an incredibly geeky zoning expert finding ways that zoning could address communities' concerns"
+    },
+    "AmandaBurden_2014_93": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_93_fbank.pt",
+        "words": " so little by little neighborhood by neighborhood block by block we began to set height limits so that all new development would be predictable and near transit"
+    },
+    "AmandaBurden_2014_96": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_96_fbank.pt",
+        "words": " twelve thousand five hundred blocks so that now ninety percent of all new development of new york is within a 10 minute walk of a subway"
+    },
+    "AmandaBurden_2014_97": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_97_fbank.pt",
+        "words": " in other words nobody in those new buildings needs to own a car"
+    },
+    "AmandaBurden_2014_100": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_100_fbank.pt",
+        "words": " so in the areas where we zoned for significant development i was determined to create places that would make a difference in people's"
+    },
+    "AmandaBurden_2014_103": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_103_fbank.pt",
+        "words": " now the zoning here was massive so i felt an obligation"
+    },
+    "AmandaBurden_2014_106": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_106_fbank.pt",
+        "words": " from the upland to the water that there were trees and plantings everywhere and of course lots and lots of places to sit"
+    },
+    "AmandaBurden_2014_107": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_107_fbank.pt",
+        "words": " honestly i had no idea how it would turn out i had to have faith"
+    },
+    "AmandaBurden_2014_109": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_109_fbank.pt",
+        "words": " and then it opened and i have to tell you it was incredible people came from all over the city to"
+    },
+    "AmandaBurden_2014_112": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_112_fbank.pt",
+        "words": " and i can't tell you why but i'm completely moved by the fact that people are using it as if it had always been there"
+    },
+    "AmandaBurden_2014_113": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_113_fbank.pt",
+        "words": " and here is a new park in lower manhattan"
+    },
+    "AmandaBurden_2014_116": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_116_fbank.pt",
+        "words": " and after nine eleven the city had very little control"
+    },
+    "AmandaBurden_2014_117": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_117_fbank.pt",
+        "words": " but i thought if we went to the lower manhattan development corporation and got money to reclaim this two miles of degraded waterfront"
+    },
+    "AmandaBurden_2014_124": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_124_fbank.pt",
+        "words": " so what's the trick how do you turn a park"
+    },
+    "AmandaBurden_2014_125": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_125_fbank.pt",
+        "words": " into a place that people want to be well it's up to you not as a city planner but as a human"
+    },
+    "AmandaBurden_2014_126": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_126_fbank.pt",
+        "words": " you don't tap into your design expertise you tap into your humanity"
+    },
+    "AmandaBurden_2014_131": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_131_fbank.pt",
+        "words": " where there used to be parking spaces there are now pop up cafes"
+    },
+    "AmandaBurden_2014_133": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_133_fbank.pt",
+        "words": " where twelve years ago sidewalk cafes were not allowed they are now everywhere"
+    },
+    "AmandaBurden_2014_135": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_135_fbank.pt",
+        "words": " so now i'm going to tell you a story about a very unusual park"
+    },
+    "AmandaBurden_2014_136": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_136_fbank.pt",
+        "words": " called the high line"
+    },
+    "AmandaBurden_2014_138": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_138_fbank.pt",
+        "words": " the high line was an elevated railway that ran through three neighborhoods on manhattan's west side"
+    },
+    "AmandaBurden_2014_143": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_143_fbank.pt",
+        "words": " i knew if there was a day that i"
+    },
+    "AmandaBurden_2014_144": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_144_fbank.pt",
+        "words": " worry about the high line it would come down"
+    },
+    "AmandaBurden_2014_146": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_146_fbank.pt",
+        "words": " you might see a beautiful park"
+    },
+    "AmandaBurden_2014_148": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_148_fbank.pt",
+        "words": " you know it's true commercial interests will always battle against public space"
+    },
+    "AmandaBurden_2014_149": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_149_fbank.pt",
+        "words": " how wonderful it is that more than four million people come from all over the world to visit the high line"
+    },
+    "AmandaBurden_2014_150": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_150_fbank.pt",
+        "words": " well a developer sees just one thing customers hey why not take out those plantings and have shops all along the high line wouldn't that be terrific and won't it mean a lot more money for the city"
+    },
+    "AmandaBurden_2014_156": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_156_fbank.pt",
+        "words": " and they came to me and proposed that they temporarily disassemble that third and final section"
+    },
+    "AmandaBurden_2014_157": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_157_fbank.pt",
+        "words": " perhaps the high line didn't fit in with their image of a gleaming city of skyscrapers on a"
+    },
+    "AmandaBurden_2014_161": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_161_fbank.pt",
+        "words": " always this is it saved public spaces always need vigilant champions"
+    },
+    "AmandaBurden_2014_164": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_164_fbank.pt",
+        "words": " if there is any one lesson that i have learned in my life as a city planner it is that public spaces have power"
+    },
+    "AmandaBurden_2014_165": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_165_fbank.pt",
+        "words": " it's not just the number of people using them it's the even greater number of people who feel better about their city just knowing that they are there"
+    },
+    "AmandaBurden_2014_166": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_166_fbank.pt",
+        "words": " public space can change how you live in a city how you feel about a city whether you choose one city over another"
+    },
+    "AmandaBurden_2014_167": {
+        "fbank": "/nfs/home/zhaoqiuming/projects/whisper-biasing/data/sa_data/ted_lium_without_unk_apo_blank_random/AmandaBurden_2014/train/AmandaBurden_2014_167_fbank.pt",
+        "words": " and public space is one of the most important reasons why you stay in a city"
+    }
+}

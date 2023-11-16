@@ -1,0 +1,153 @@
+JonathanZittrain_2009G_0 my name is jonathan zittrain and in my recent work i've been a bit of a pessimist so i thought this morning i would try to be the optimist and give reason to hope for the future of the internet by drawing upon its present
+JonathanZittrain_2009G_1 now it may seem like there
+JonathanZittrain_2009G_2 is less hope today than there was before people are less kind there is less trust around i don't know as a
+JonathanZittrain_2009G_3 simple example we could run a test here how many people have ever hitchhiked 
+JonathanZittrain_2009G_4 i know how many people have hitchhiked within the past ten years
+JonathanZittrain_2009G_5 right so what has changed it's not better public transportation 
+JonathanZittrain_2009G_6 so that's one reason to think that we might be declensionists going in the wrong direction
+JonathanZittrain_2009G_7 but i want to give you three examples to try to say that the trend line is in fact in the other direction and it's the internet helping it along 
+JonathanZittrain_2009G_8 so example number one the internet
+JonathanZittrain_2009G_9 itself these are three of the founders of the internet they were actually high school classmates together at the same high school in suburban los angles in the 
+JonathanZittrain_2009G_10 you might have had a french club or a debate club they had a let's build a global network club and it worked out very well they are pictured
+JonathanZittrain_2009G_11 anniversary newsweek retrospective on the internet and as you can tell they are basically goof balls 
+JonathanZittrain_2009G_12 they had one great limitation and one great freedom as they tried to conceive of a global network
+JonathanZittrain_2009G_13 the limitation was that they didn't have any money no particular amount of capital to invest
+JonathanZittrain_2009G_14 of the sort that for a physical network you might need for trucks and people and a hub to move packages around overnight they had none of that
+JonathanZittrain_2009G_15 but they had an amazing freedom which was they didn't have to make any money from it
+JonathanZittrain_2009G_16 the internet has no business plan never did no ceo
+JonathanZittrain_2009G_17 no firm responsible singly for building it 
+JonathanZittrain_2009G_18 it's folks getting together to do something for fun rather than because they were told to or because they were expecting to make a mint off of it
+JonathanZittrain_2009G_19 that ethos led to a network architecture a structure that was unlike other digital networks then or since so unusual in fact that it was said that it's not clear the internet could
+JonathanZittrain_2009G_20 was known to say you couldn't possibly build a corporate network using internet protocol
+JonathanZittrain_2009G_21 and even some internet engineers today say the whole thing is a pilot project and the jury is still out
+JonathanZittrain_2009G_22 that's why the mascot of internet engineering if it had one is said to be the bumblebee because the
+JonathanZittrain_2009G_23 ratio of the bumblebee is far too large for it to be able to fly and yet mysteriously somehow the bee flies 
+JonathanZittrain_2009G_24 i'm pleased to say that thanks to massive government funding about three years ago we finally figured out how bees fly it
+JonathanZittrain_2009G_25 's very complicated but it turns out they flap their wings very quickly
+JonathanZittrain_2009G_26 so what is this bizarre
+JonathanZittrain_2009G_27 architecture configuration that makes the network sing and be so unusual well to move data around from one place to another again it's not like a package courier it's more like a mosh pit
+JonathanZittrain_2009G_28 imagine you being part of a network where you're maybe at a sporting event and you're sitting in rows like this and somebody asks for a beer 
+JonathanZittrain_2009G_29 and it gets handed at the aisle and
+JonathanZittrain_2009G_30 your neighborly duty is to pass the beer along at risk to your own trousers
+JonathanZittrain_2009G_31 to get it to the destination 
+JonathanZittrain_2009G_32 no one pays you to do this it's just part of your neighborly duty
+JonathanZittrain_2009G_33 and in a way that's exactly how packets move around the internet sometimes in as many as twenty five or thirty
+JonathanZittrain_2009G_34 with the intervening entities that are passing the data around having no particular contractual or legal obligation to the original sender or to the receiver
+JonathanZittrain_2009G_35 now of course in a mosh pit it's hard to specify a destination
+JonathanZittrain_2009G_36 you need a lot of trust but it's not like i'm trying to get to pensacola please so
+JonathanZittrain_2009G_37 the internet needs addressing and directions it turns out there is no one overall map of the internet
+JonathanZittrain_2009G_38 instead again it is as if we are all sitting together in a theater but we can only see amidst the fog the people immediately around us 
+JonathanZittrain_2009G_39 so what do we do to figure out who is where
+JonathanZittrain_2009G_40 we turn to the person on the right and we tell that person what we see on our left and vice versa and they can lather rinse repeat and before you
+JonathanZittrain_2009G_41 you have a general sense of where everything is this is how internet addressing and routing actually work
+JonathanZittrain_2009G_42 this is a system that relies on kindness and trust
+JonathanZittrain_2009G_43 which also makes it very delicate and vulnerable
+JonathanZittrain_2009G_44 in rare but striking instances a single lie told by just one entity in this honeycomb
+JonathanZittrain_2009G_45 can lead to real trouble so for
+JonathanZittrain_2009G_46 last year the government of pakistan asked its internet service providers there to prevent
+JonathanZittrain_2009G_47 citizens of pakistan from seeing youtube there was a video there that the government did not like and they wanted to make sure it was blocked this is a common occurrence governments everywhere are often trying to block and filter and censor content on the internet 
+JonathanZittrain_2009G_48 well this one isp in pakistan chose to effectuate the block for its subscribers in a rather unusual way
+JonathanZittrain_2009G_49 it advertised the way that you might be asked if you were part of the internet to declare what you see near you it advertised that near it in fact it had suddenly awakened to find that it was youtube
+JonathanZittrain_2009G_50 that's right it said i am youtube which meant that packets of data from
+JonathanZittrain_2009G_51 from subscribers going to youtube stopped at the isp since they thought they were already there and the isp threw them away unopened because the point was to block it 
+JonathanZittrain_2009G_52 but it didn't stop there you see that
+JonathanZittrain_2009G_53 announcement went one click out which got reverberated one click out and it turns out that as you look at the postmortem of this event you have at one moment perfectly working youtube 
+JonathanZittrain_2009G_54 at moment number two you have the fake announcement go out and within two minutes
+JonathanZittrain_2009G_55 it reverberates around and youtube is blocked everywhere in the world if you were sitting in oxford england trying to get to youtube your packets were going to pakistan and they weren't coming back
+JonathanZittrain_2009G_56 now just think about that one of the most popular websites in the world run by the most powerful company in the world and there was nothing
+JonathanZittrain_2009G_57 that youtube or google
+JonathanZittrain_2009G_58 were particularly privileged to do about it and yet somehow within about two hours the problem was fixed
+JonathanZittrain_2009G_59 how did this happen 
+JonathanZittrain_2009G_60 well for a big clue we turn to nanog the north american network operators group
+JonathanZittrain_2009G_61 a group of people who on a beautiful day outside enter into a windowless room at their terminals
+JonathanZittrain_2009G_62 reading
+JonathanZittrain_2009G_63 email and messages in
+JonathanZittrain_2009G_64 fixed proportion font like this
+JonathanZittrain_2009G_65 and they talk about networks and some of them are mid level employees at internet service providers around the world and here is the message where one of them says looks like we've got a live one we 
+JonathanZittrain_2009G_66 have a hijacking of youtube this is not a drill it's not just the cluelessness of youtube engineers i promise
+JonathanZittrain_2009G_67 and they came together to help find the problem and fix it so it
+JonathanZittrain_2009G_68 's kind of like if your house catches on fire
+JonathanZittrain_2009G_69 the bad news is there is no fire brigade
+JonathanZittrain_2009G_70 the good news is random people apparate from nowhere put out the fire and leave without expecting payment or praise
+JonathanZittrain_2009G_71 i was trying to think of the right model to describe
+JonathanZittrain_2009G_72 this form of random acts of kindness by geeky strangers
+JonathanZittrain_2009G_73 you know it's just like the hail goes out and people are ready to help 
+JonathanZittrain_2009G_74 and it turns out this model is everywhere once you start looking for it 
+JonathanZittrain_2009G_75 example number two
+JonathanZittrain_2009G_76 man named jimbo came up to you in two thousand and one and said i've got a great idea we start with seven articles that anybody can edit anything at any time and we'll get a great encyclopedia eh
+JonathanZittrain_2009G_77 right dumbest idea ever
+JonathanZittrain_2009G_78 in fact wikipedia is an idea so profoundly stupid
+JonathanZittrain_2009G_79 that even jimbo never had it jimbo's idea was for nupedia it was going to be totally traditional he would pay people money because he was
+JonathanZittrain_2009G_80 feeling like a good guy
+JonathanZittrain_2009G_81 and the money would go to the people and they would write the articles 
+JonathanZittrain_2009G_82 the wiki was introduced so others could make suggestions on edits as almost an afterthought a back room 
+JonathanZittrain_2009G_83 and then it turns out the back room grew to encompass the entire project and today wikipedia is so ubiquitous that you can now
+JonathanZittrain_2009G_84 i am not making this up
+JonathanZittrain_2009G_85 i have a theory i can explain later suffice it to say for now that i prefer my wikipedia stir fried with pimentos
+JonathanZittrain_2009G_86 laughter but now wikipedia doesn't just spontaneously work how does it really work it turns out there is a back room that is kind of windowless
+JonathanZittrain_2009G_87 metaphorically speaking and there are a bunch of people who on a sunny day would rather be inside
+JonathanZittrain_2009G_88 and monitoring this the administrator's notice board itself a wiki page that anyone can edit 
+JonathanZittrain_2009G_89 and you just bring your problems to the page it's reminiscent of the description of history as one damn thing after another
+JonathanZittrain_2009G_90 right number one tendentious editing by user andyvphil
+JonathanZittrain_2009G_91 andyvphil if you're here today i'm not taking sides anon attacking me for reverting here is my favorite a long story
+JonathanZittrain_2009G_92 it turns out there are more people checking this page for problems and wanting to solve them than there are problems arising on the page 
+JonathanZittrain_2009G_93 at all times wikipedia is approximately forty five minutes away from utter destruction
+JonathanZittrain_2009G_94 right there are spambots crawling it trying to turn every article into an ad for a rolex watch
+JonathanZittrain_2009G_95 it's this thin geeky line that keeps it going
+JonathanZittrain_2009G_96 not because it's a job not because it's a career but because it's a
+JonathanZittrain_2009G_97 it's something they feel impelled to do because they care about it they even gather together in such groups as 
+JonathanZittrain_2009G_98 unit civility maturity responsibility to just clean up the pages 
+JonathanZittrain_2009G_99 it does make you wonder if there were for instance a massive extremely popular star trek convention one weekend who would be minding the store
+JonathanZittrain_2009G_100 see
+JonathanZittrain_2009G_101 what we see in this phenomenon
+JonathanZittrain_2009G_102 is something that the crazed late traffic engineer hans monderman discovered in the netherlands and here in south kensington that sometimes if you remove some 
+JonathanZittrain_2009G_103 of the external rules and signs and everything else you can actually end up with a safer environment in
+JonathanZittrain_2009G_104 which people can function
+JonathanZittrain_2009G_105 and one in which they are more human with each other they're realizing that they have to take responsibility for what they do and wikipedia has embraced this some of you may remember star wars kid 
+JonathanZittrain_2009G_106 the poor teenager who filmed himself with a golf ball retriever acting as if it were a light saber
+JonathanZittrain_2009G_107 without his permission or even knowledge at first found its way onto the internet hugely viral video extremely popular totally mortifying to him
+JonathanZittrain_2009G_108 now it being encyclopedic and all wikipedia had to do an article about star wars kid 
+JonathanZittrain_2009G_109 every article on wikipedia has a corresponding discussion page and on the discussion page they had extensive argument among the wikipedians as to whether to have his real name featured in the article
+JonathanZittrain_2009G_110 on both sides here is just a snapshot of some of them
+JonathanZittrain_2009G_111 they eventually decided not unanimously by any means not to include his real name despite the fact that nearly all media reports did they just didn't think 
+JonathanZittrain_2009G_112 it was the right thing to do it was an act of kindness and to this day the page for star wars kid has a warning right at the top that says you are not to put his real name on the page if you do it will
+JonathanZittrain_2009G_113 removed immediately removed by people who may have disagreed with the original decision but respect the outcome and work to make it stay because they believe in something bigger than their own opinion
+JonathanZittrain_2009G_114 as a lawyer i've got to say these guys are inventing the law and stare decisis and stuff like that as they go along 
+JonathanZittrain_2009G_115 now this isn't just limited to wikipedia we see it on blogs
+JonathanZittrain_2009G_116 all over the place i mean this is a two thousand and five business week cover wow blogs are going to change your business i know they look silly and sure they look silly 
+JonathanZittrain_2009G_117 they start off on all sorts of goofy projects this is my favorite goofy blog
+JonathanZittrain_2009G_118 you send in a picture of your cat
+JonathanZittrain_2009G_119 i know number four it's like can you imagine coming home to that cat everyday
+JonathanZittrain_2009G_120 but then
+JonathanZittrain_2009G_121 you can see the same kind of whimsy applied to people so this is a blog devoted to unfortunate portraiture this one
+JonathanZittrain_2009G_122 you know i think that's an animal carcass behind her
+JonathanZittrain_2009G_123 and it's one after the other but then you hit this one
+JonathanZittrain_2009G_124 image removed at request of owner 
+JonathanZittrain_2009G_125 that's it image removed at request of owner it turns out that somebody lampooned here wrote to the snarky guy that does the site not with a legal threat not with an offer of
+JonathanZittrain_2009G_126 i believe we can build architectures online to make such human requests that much easier to do to make it possible for 
+JonathanZittrain_2009G_127 all of us to see that the data we encounter online is just stuff on which to click and paste and copy and forward that actually represents human emotion and endeavor
+JonathanZittrain_2009G_128 and to be able to have an ethical moment where we decide how we want to treat it i even think it can go into the real world we can end up as we get in a world with more 
+JonathanZittrain_2009G_129 censors everywhere there is something filming you maybe putting it online to be able to have a little clip you could wear that says you know i'd rather not and then have technology
+JonathanZittrain_2009G_130 person taking the photo can make a decision about how and whether to respect it
+JonathanZittrain_2009G_131 in the real world we see filtering of this sort taking place in pakistan and we now have means that we can build like this system 
+JonathanZittrain_2009G_132 so that people can report the filtering as they encounter it and it's no longer just a i don't know i couldn't get
+JonathanZittrain_2009G_133 i guess i'll move on but suddenly a collective consciousness about what is blocked and censored where online
+JonathanZittrain_2009G_134 in fact talk about technology imitating life imitating tech or maybe it's the other way around an nyu researcher here took little cardboard 
+JonathanZittrain_2009G_135 robots with smiley faces on them and a motor that just drove them forward and a flag sticking out the back with
+JonathanZittrain_2009G_136 can you help me get there released it on the streets of manhattan they
+JonathanZittrain_2009G_137 'll fund anything these days
+JonathanZittrain_2009G_138 here is the chart of over forty three people helping to steer the robot that could not steer and get it on its way from one corner from one corner of washington square park to another
+JonathanZittrain_2009G_139 that leads to example number three hitchhiking i'm not so sure
+JonathanZittrain_2009G_140 hitchhiking is dead why
+JonathanZittrain_2009G_141 there is the craigslist rideshare board if
+JonathanZittrain_2009G_142 it were called the craigslist hitchhiking board tumbleweeds would be blowing through it but it's the rideshare board and it's basically the same thing now why are people using it 
+JonathanZittrain_2009G_143 i don't know maybe they think that uh
+JonathanZittrain_2009G_144 killers don't plan ahead
+JonathanZittrain_2009G_145 i think the actual answer is that once you reframe it once you get out of one set of stale expectations from a failed project that had its day but now 
+JonathanZittrain_2009G_146 for whatever reason is tarnished you can actually rekindle the kind of human kindness and sharing that something like this on craigslist represents and then you can highlight it
+JonathanZittrain_2009G_147 one guy's idea to at last put together people who are going somewhere far away and would like to sleep on a stranger's couch for free
+JonathanZittrain_2009G_148 with people who live far away and would like someone they don't know to sleep on their couch for free
+JonathanZittrain_2009G_149 it's a
+JonathanZittrain_2009G_150 brilliant idea it's a bee that yes
+JonathanZittrain_2009G_151 successful couch surfings there have been and if you're wondering no there have been no known fatalities associated with couchsurfing although to be sure the reputation system at the moment works that you leave your report after the couch surfing experience so there may be some
+JonathanZittrain_2009G_152 selection bias there

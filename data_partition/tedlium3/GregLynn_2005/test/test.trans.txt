@@ -1,0 +1,59 @@
+GregLynn_2005_1 we always have tried to justify beauty by looking to nature and
+GregLynn_2005_2 arguably beautiful architecture has always been looking at a model of nature so for roughly three hundred years the hot debate in architecture
+GregLynn_2005_4 or because your head
+GregLynn_2005_7 and
+GregLynn_2005_8 everybody had to dimension a building in terms of fractions so a room would be dimensioned as one fourth of a facade the structural dais of that might be dimensioned as ten
+GregLynn_2005_9 get down to the small elements by fractional subdivision finer and finer and finer in the 15th century the decimal point was invented architects 
+GregLynn_2005_10 stopped using fractions and they had a new model of nature so what's going on
+GregLynn_2005_11 and which is using digital tools and that has a lot of implications to the way we think about beauty and form and it has a lot of implications
+GregLynn_2005_12 in the way we think about nature 
+GregLynn_2005_13 the best example of this would probably be the gothic and the gothic was invented after the invention of calculus although the gothic architects weren't really using 
+GregLynn_2005_15 cross you can see that the structural forces of the vaulting get articulated as lines so you're really actually seeing the expression of structural force and form 
+GregLynn_2005_16 much later robert maillart's bridges which optimize structural form with a calculus curvature almost like a parabola 
+GregLynn_2005_20 and foam bubble models to generate his mannheim concert hall
+GregLynn_2005_22 in all these examples there's one ideal form because these are thought in terms of structure and as an architect i've always found these kinds of systems very limiting because
+GregLynn_2005_23 i'm not interested in ideal forms and i'm not interested in optimizing to some perfect moment so what i thought i would
+GregLynn_2005_25 generic form in genetic
+GregLynn_2005_28 and laws rather than looking at the norms so instead of trying to find the ideal type
+GregLynn_2005_34 and bateson invented the concept of symmetry breaking
+GregLynn_2005_35 which is that wherever you lose information in a system 
+GregLynn_2005_36 you revert back to symmetry so symmetry wasn't the sign of order and organization which is what i was always understanding and as is an architect
+GregLynn_2005_39 shifted at that moment from looking for ideal shapes to looking for a combination of information and
+GregLynn_2005_40 and generic form 
+GregLynn_2005_41 you know literally after seeing that image and finding out what bateson was working with we started to use these rules for symmetry breaking and
+GregLynn_2005_42 branching to start to think about architectural form 
+GregLynn_2005_46 up to say fifty thousand pieces of material in this room you're sitting in right now
+GregLynn_2005_49 because you'd want to space them all out for everybody's sight lines
+GregLynn_2005_52 calculus is also a mathematics of curves so even a straight line defined with calculus is a curve it's just a curve without inflection
+GregLynn_2005_53 a new vocabulary of form is now pervading all design fields whether it's automobiles architecture products etc it's really being affected by 
+GregLynn_2005_58 but they're repetitive without being modular each one of the elements in this structure
+GregLynn_2005_61 definition of the form it also is much more dynamic so that you can see that the same
+GregLynn_2005_63 of closed volume when seen from the other side becomes a kind of open vista 
+GregLynn_2005_64 changes also in architecture
+GregLynn_2005_69 number of traits in a very kind of genetic way 
+GregLynn_2005_71 in terms of construction and manufacturing this is a
+GregLynn_2005_72 housing block that was built in the' 70s in
+GregLynn_2005_73 here we've broken the five hundred apartments up into small neighborhoods and differentiated those neighborhoods 
+GregLynn_2005_80 bentley and microstation we've written a custom piece of software that networks all of the components together into these
+GregLynn_2005_83 for every single component of the building
+GregLynn_2005_88 design firms that have connections to architects like i'm working with vitra
+GregLynn_2005_89 which is a furniture company and alessi which is a houseware company
+GregLynn_2005_90 they saw this actually solving a problem this ability to differentiate components but keep them synthetic so 
+GregLynn_2005_93 have a distinct identity for all their models of cars so the three hundred series or whatever their newest car is the one hundred series that's coming out
+GregLynn_2005_97 as manufacturing starts to allow more
+GregLynn_2005_99 this problem gets exacerbated of the whole and the parts now as an architect part to whole relationships is all i think about but in terms of product design it's becoming more and more of
+GregLynn_2005_100 an issue
+GregLynn_2005_101 for companies so the first kind of test product we did was with alessi which was for a coffee and tea set it's an incredibly expensive coffee and tea set we 
+GregLynn_2005_105 gently inflate titanium that's soft and then explode it at the last minute into this form 
+GregLynn_2005_109 similar to that housing project i showed you
+GregLynn_2005_122 these are real architectural problems so 
+GregLynn_2005_123 my kind of hero
+GregLynn_2005_126 let's call it the decoration i know the frog doesn't think of it as decoration but that's how it works
+GregLynn_2005_128 the pattern and the form aren't the same thing but they really work together and are fused in some way so when doing
+GregLynn_2005_133 different towers of housing fused together in shared curves so you get a single mass like a kind of monolith but it breaks down
+GregLynn_2005_135 can see that that change in massing also gives all forty eight of the apartments a unique shape and size but always within a kind of controlled
+GregLynn_2005_137 i work with a group of other architects we have a company called united architects we were one of the finalists for the world trade center site design
+GregLynn_2005_141 the five towers into a single system and we looked
+GregLynn_2005_143 we really approached it at the level of the typology of the building where we could build these five separate towers but they would all join at the 60th floor and make a kind of single monolithic mass 
+GregLynn_2005_145 but this time in a much more monolithic mass like a sphere
+GregLynn_2005_146 but again you can see this kind of organic fusion of multiple building elements to make a thing which is whole but breaks down into smaller parts but in an incredibly organic way
